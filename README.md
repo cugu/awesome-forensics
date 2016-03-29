@@ -92,7 +92,7 @@ A curated list of awesome forensic analysis tools and resources. Inspired by
 * [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) - Grammars used by TestDisk and PhotoRec
 
 ## Disk image handling
-* [xmount](https://www.pinguin.lu/xmount) - Convert between differnet disk image formats
+* [xmount](https://www.pinguin.lu/xmount) - Convert between different disk image formats
 
 ## Decryption
 * [John the Ripper](http://www.openwall.com/john/) - Password cracker
