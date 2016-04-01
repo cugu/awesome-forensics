@@ -44,7 +44,7 @@ A curated list of awesome forensic analysis tools and resources. Inspired by
 * [mig](https://github.com/mozilla/mig) - Distributed & real time digital forensics at the speed of the cloud
 * [grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
 
-# Imageing
+## Imageing
 * [FTK Imager](http://accessdata.com/product-download/digital-forensics/ftk-imager-version-3.4.2) - Free imageing tool
 * [dcfldd](http://dcfldd.sourceforge.net/) - Improved version of dd
 * [dc3dd](https://sourceforge.net/projects/dc3dd/) - Different improved version of dd
