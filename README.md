@@ -11,12 +11,15 @@ A curated list of awesome forensic analysis tools and resources. Inspired by
     - [Distributions](#distributions)
     - [Frameworks](#frameworks)
     - [Live forensics](#live-forensics)
+    - [Imageing](#imageing)
     - [Carving](#carving)
     - [Memory Forensics](#memory-forensics)
     - [Network Forensics](#network-forensics)
     - [Windows Artifacts](#windows-artifacts)
     - [OS X Forensics](#os-x-forensics)
     - [Hex Editors](#hex-editors)
+    - [Binary Converter](#binary-converter)
+    - [File Grammars](#file-grammars)
     - [Disk image handling](#disk_image_handling)
     - [Decryption](#decryption)
 - [Learn Forensics](#learn-forensics)
@@ -81,6 +84,9 @@ A curated list of awesome forensic analysis tools and resources. Inspired by
 * [iBored](http://apps.tempel.org/iBored/) - Cross platform, sektor based hex editor
 * [Synalyze It!](http://www.synalysis.net/) - Hex editor with templates for binary analysis
 * [Hexinator](https://hexinator.com/) - Windows Version of Synalyze It!
+
+## Binary Converter
+* [DateDecode](http://sandersonforensics.com/forum/content.php?245-DateDecode-a-forensic-tool-to-decode-a-number-as-various-date-formats) - Convert binary data into differnt kinds of date formats
 
 ## File Grammars
 * [WinHex Templates](https://www.x-ways.net/winhex/templates/) - Grammars for the WinHex editor and X-Ways
