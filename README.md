@@ -7,6 +7,7 @@ A curated list of awesome forensic analysis tools and resources. Inspired by
 
 
 - [Awesome Forensics](#awesome-forensics)
+- [Collections](#collections)
 - [Tools](#tools)
     - [Distributions](#distributions)
     - [Frameworks](#frameworks)
@@ -28,11 +29,16 @@ A curated list of awesome forensic analysis tools and resources. Inspired by
     - [File System Corpora](#file-system-corpora)
     - [Websites](#websites)
     - [Twitter](#twitter)
+    - [Blogs](#blogs)
     - [Other](#other)
 - [Related Awesome Lists](#related-awesome-lists)
 - [Contributing](#contributing)
 
 ---
+
+# Collections
+* [Devon Ackerman's Definitive DFIR Compendium Project](https://docs.google.com/spreadsheets/d/1JY-iyw-LEuPCkBAdjorMJhmhGRusN95eLmejWcky7XU/edit#gid=0) - Google Docs Sheets with lists of certifications, books, blogs, challenges and more
+* [dfir.training](http://www.dfir.training/) - Database with events, tools and other forensics material
 
 # Tools
 
@@ -142,6 +148,9 @@ A curated list of awesome forensic analysis tools and resources. Inspired by
 * [@sleuthkit](https://twitter.com/sleuthkit)
 * [@williballenthin](https://twitter.com/williballenthin)
 * [@XWaysGuide](https://twitter.com/XWaysGuide)
+
+## Blogs
+* [thisweekin4n6.wordpress.com](thisweekin4n6.wordpress.com) - Weekly updates for forensics
 
 ## Other
 * [/r/computerforensics/](https://www.reddit.com/r/computerforensics/) - Subreddit for computer forensics
