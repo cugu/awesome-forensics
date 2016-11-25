@@ -1,6 +1,7 @@
 # Awesome Forensics
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Build Status](https://travis-ci.org/Cugu/awesome-forensics.svg?branch=master)](https://travis-ci.org/Cugu/awesome-forensics)
 
 A curated list of awesome forensic analysis tools and resources. Inspired by
 [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis).
