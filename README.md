@@ -1,9 +1,9 @@
 # Awesome Forensics
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Build Status](https://api.travis-ci.org/Cugu/awesome-forensics.svg?branch=master)](https://travis-ci.org/Cugu/awesome-forensics)
 
-A curated list of awesome forensic analysis tools and resources. Inspired by
-[awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis).
+A curated list of awesome forensic analysis tools and resources.
 
 
 - [Awesome Forensics](#awesome-forensics)
@@ -102,7 +102,7 @@ A curated list of awesome forensic analysis tools and resources. Inspired by
 * [WinHex Templates](https://www.x-ways.net/winhex/templates/) - Grammars for the WinHex editor and X-Ways
 * [Synalyse It! Grammars](https://www.synalysis.net/formats.xml) - File type grammars for the Synalyze It! editor
 * [HFSPlus Grammars](https://github.com/mac4n6/HFSPlus_Resources/tree/master/HFSPlus_Grammars) - HFS+ grammars for Synalysis
-* [Contruct formats](https://github.com/construct/construct/tree/master/construct/formats) - Parser for different file formats for the python construct package
+* [Contruct formats](https://github.com/construct/construct/tree/master/construct/examples/formats) - Parser for different file formats for the python construct package
 * [010 Editor Templates](http://www.sweetscape.com/010editor/templates/) - Templates for the 010 Editor
 * [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) - Grammars for different file systems
 * [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) - Grammars used by TestDisk and PhotoRec
@@ -112,7 +112,7 @@ A curated list of awesome forensic analysis tools and resources. Inspired by
 
 ## Decryption
 * [John the Ripper](http://www.openwall.com/john/) - Password cracker
-* [hashcat](https://hashcat.net/oclhashcat/) - Fast password cracker with GPU support
+* [hashcat](https://hashcat.net/hashcat/) - Fast password cracker with GPU support
 
 # Learn forensics
 
@@ -137,7 +137,6 @@ A curated list of awesome forensic analysis tools and resources. Inspired by
 ## Twitter
 * [@4n6ist](https://twitter.com/4n6ist)
 * [@4n6k](https://twitter.com/4n6k)
-* [@505Forensics](https://twitter.com/505Forensics) - Forensicator
 * [@aheadless](https://twitter.com/aheadless)
 * [@AppleExaminer](https://twitter.com/AppleExaminer) - Apple OS X & iOS Digital Forensics
 * [@blackbagtech](https://twitter.com/blackbagtech)
