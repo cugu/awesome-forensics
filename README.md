@@ -18,6 +18,7 @@ A curated list of awesome forensic analysis tools and resources. Inspired by
     - [Network Forensics](#network-forensics)
     - [Windows Artifacts](#windows-artifacts)
     - [OS X Forensics](#os-x-forensics)
+    - [Internet Artifacts](#internet-artifacts)
     - [Hex Editors](#hex-editors)
     - [Binary Converter](#binary-converter)
     - [File Grammars](#file-grammars)
@@ -83,6 +84,9 @@ A curated list of awesome forensic analysis tools and resources. Inspired by
 ## OS X Forensics
 * [OSXAuditor](https://github.com/jipegit/OSXAuditor)
 
+## Internet Artifacts
+* [hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
+
 ## Hex Editors
 * [HxD](https://mh-nexus.de/de/hxd/) - Small, fast hex editor for Windows
 * [0xED](http://www.suavetech.com/0xed/) - Native hex editor for OS X
@@ -112,7 +116,7 @@ A curated list of awesome forensic analysis tools and resources. Inspired by
 
 # Learn forensics
 
-* [Forensic Challanges](http://www.amanhardikar.com/mindmaps/ForensicChallenges.html) - Mindmap of Forensic Challanges
+* [Forensic Challanges](http://www.amanhardikar.com/mindmaps/ForensicChallenges.html) - Mindmap of forensic challanges
 
 ## CTFs
 * [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics)
@@ -124,6 +128,7 @@ A curated list of awesome forensic analysis tools and resources. Inspired by
 * [The CFReDS Project](http://www.cfreds.nist.gov/)
   * [Hacking Case (4.5 GB NTFS Image)](http://www.cfreds.nist.gov/Hacking_Case.html)
 * [FAU Open Research Challenge Digital Forensics](https://openresearchchallenge.org/digitalForensics/appliedforensiccomputinggroup)
+* [Digital Forensic Challenge Images](http://www.ashemery.com/dfir.html) - Two DFIR challanges with images
 
 ## Websites
 * [Forensics tools on Wikipedia](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
