@@ -96,6 +96,7 @@ A curated list of awesome forensic analysis tools and resources.
 * [Hexinator](https://hexinator.com/) - Windows Version of Synalyze It!
 
 ## Binary Converter
+* [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 * [DateDecode](http://sandersonforensics.com/forum/content.php?245-DateDecode-a-forensic-tool-to-decode-a-number-as-various-date-formats) - Convert binary data into differnt kinds of date formats
 
 ## File Grammars
