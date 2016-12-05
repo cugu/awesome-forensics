@@ -162,6 +162,7 @@ A curated list of awesome forensic analysis tools and resources.
 
 ## Other
 * [/r/computerforensics/](https://www.reddit.com/r/computerforensics/) - Subreddit for computer forensics
+* [ForensicPosters](https://github.com/Invoke-IR/ForensicPosters) - Posters of file system structures
 
 # Related Awesome Lists
 
