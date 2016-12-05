@@ -49,6 +49,7 @@ A curated list of awesome forensic analysis tools and resources.
 ## Frameworks
 * [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) - Tools for low level forensic analysis
 * [dff](https://github.com/arxsys/dff) - Forensic framework
+* [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - PowerForensics is a framework for live disk forensic analysis
 
 ## Live forensics
 * [mig](https://github.com/mozilla/mig) - Distributed & real time digital forensics at the speed of the cloud
