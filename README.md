@@ -109,6 +109,8 @@ A curated list of awesome forensic analysis tools and resources.
 * [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) - Grammars used by TestDisk and PhotoRec
 
 ## Disk image handling
+* [libewf](https://github.com/libyal/libewf) - Libewf is a library and some tools to access the Expert Witness Compression Format (EWF, E01)
+* [aff4](https://github.com/google/aff4) - AFF4 is an alternative, fast file format
 * [xmount](https://www.pinguin.lu/xmount) - Convert between different disk image formats
 
 ## Decryption
