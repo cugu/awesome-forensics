@@ -88,6 +88,7 @@ A curated list of awesome forensic analysis tools and resources.
 *more at [Malware Analysis List](https://github.com/rshipp/awesome-malware-analysis#network), [Forensicswiki's Tool List](http://forensicswiki.org/wiki/Tools:Network_Forensics), [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) and [Wireshark Tool and Script List](https://wiki.wireshark.org/Tools)*
 
 * [Wireshark](https://www.wireshark.org/) - The network traffic analysis tool
+* [SiLK Tools](https://tools.netsa.cert.org/silk/) - SiLK is a suite of network traffic collection and analysis tools developed and maintained by the CERT Network Situational Awareness Team (CERT NetSA) at Carnegie Mellon University to facilitate security analysis of large networks. The SiLK tool suite supports the efficient collection, storage, and analysis of network flow data, enabling network security analysts to rapidly query large historical traffic data sets.
 
 ## Windows Artifacts
 
