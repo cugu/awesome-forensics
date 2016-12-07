@@ -137,6 +137,8 @@ A curated list of awesome forensic analysis tools and resources.
 ## Websites
 * [Forensics tools on Wikipedia](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
 * [Free computer forensic tools](https://forensiccontrol.com/resources/free-software/) - Comprehensive list of free computer forensic tools
+* [Digital Forensics](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational/#digital_forensics) - Online training material by European Union Agency for Network and Information Security
+* [Network forensics](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational/#network_forensics) - Online training material by European Union Agency for Network and Information Security
 
 ## Twitter
 * [@4n6ist](https://twitter.com/4n6ist)
