@@ -57,9 +57,10 @@ A curated list of awesome forensic analysis tools and resources.
 * [grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
 
 ## Imageing
-* [FTK Imager](http://accessdata.com/product-download/digital-forensics/ftk-imager-version-3.4.2) - Free imageing tool
-* [dcfldd](http://dcfldd.sourceforge.net/) - Improved version of dd
-* [dc3dd](https://sourceforge.net/projects/dc3dd/) - Different improved version of dd
+* [FTK Imager](http://accessdata.com/product-download/digital-forensics/ftk-imager-version-3.4.3) - Free imageing tool for windows
+* [Guymager](http://guymager.sourceforge.net/) - Open source version for disk imageing on linux systems
+* [dc3dd](https://sourceforge.net/projects/dc3dd/) - Improved version of dd
+* [dcfldd](http://dcfldd.sourceforge.net/) - Different improved version of dd (has some bugs!)
 
 ## Carving
 * [bstrings](https://github.com/EricZimmerman/bstrings) - Improved strings utility
