@@ -28,7 +28,6 @@ A curated list of awesome forensic analysis tools and resources.
     - [CTFs](#ctfs)
 - [Resources](#resources)
     - [File System Corpora](#file-system-corpora)
-    - [Websites](#websites)
     - [Twitter](#twitter)
     - [Blogs](#blogs)
     - [Other](#other)
@@ -42,6 +41,8 @@ A curated list of awesome forensic analysis tools and resources.
 * [dfir.training](http://www.dfir.training/) - Database with events, tools and other forensics material
 
 # Tools
+* [Forensics tools on Wikipedia](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
+* [Free computer forensic tools](https://forensiccontrol.com/resources/free-software/) - Comprehensive list of free computer forensic tools
 
 ## Distributions
 * [deft](http://www.deftlinux.net/) - Linux distribution for forensic analysis
@@ -119,8 +120,8 @@ A curated list of awesome forensic analysis tools and resources.
 * [hashcat](https://hashcat.net/hashcat/) - Fast password cracker with GPU support
 
 # Learn forensics
-
-* [Forensic Challanges](http://www.amanhardikar.com/mindmaps/ForensicChallenges.html) - Mindmap of forensic challanges
+* [Forensic challanges](http://www.amanhardikar.com/mindmaps/ForensicChallenges.html) - Mindmap of forensic challanges
+* [Training material](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational/) - Online training material by European Union Agency for Network and Information Security for different topics (e.g. [Digital forensics](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational/#digital_forensics), [Network forensics](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational/#network_forensics))
 
 ## CTFs
 * [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics)
@@ -133,12 +134,6 @@ A curated list of awesome forensic analysis tools and resources.
   * [Hacking Case (4.5 GB NTFS Image)](http://www.cfreds.nist.gov/Hacking_Case.html)
 * [FAU Open Research Challenge Digital Forensics](https://openresearchchallenge.org/digitalForensics/appliedforensiccomputinggroup)
 * [Digital Forensic Challenge Images](http://www.ashemery.com/dfir.html) - Two DFIR challanges with images
-
-## Websites
-* [Forensics tools on Wikipedia](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
-* [Free computer forensic tools](https://forensiccontrol.com/resources/free-software/) - Comprehensive list of free computer forensic tools
-* [Digital Forensics](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational/#digital_forensics) - Online training material by European Union Agency for Network and Information Security
-* [Network forensics](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational/#network_forensics) - Online training material by European Union Agency for Network and Information Security
 
 ## Twitter
 * [@4n6ist](https://twitter.com/4n6ist)
