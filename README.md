@@ -80,6 +80,7 @@ A curated list of awesome forensic analysis tools and resources.
 * [KeeFarce](https://github.com/denandz/KeeFarce) - Extract KeePass passwords from memory
 * [see Malware Analysis List](https://github.com/rshipp/awesome-malware-analysis#memory-forensics)
 * [volatility](https://github.com/volatilityfoundation/volatility) - The memory forensic framework
+* [VolUtility](https://github.com/kevthehermit/VolUtility) - Web App for Volatility framework
 
 ## Network Forensics
 
