@@ -63,6 +63,7 @@ A curated list of awesome forensic analysis tools and resources.
 * [dcfldd](http://dcfldd.sourceforge.net/) - Different improved version of dd (has some bugs!)
 
 ## Carving
+* [bulk_extractor](https://github.com/simsong/bulk_extractor) - Extracts informations like email adresses, creditscard numbers and histrograms of disk images
 * [bstrings](https://github.com/EricZimmerman/bstrings) - Improved strings utility
 * [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - File carving tool
 * [see Maleware Analysis List](https://github.com/rshipp/awesome-malware-analysis#file-carving)
