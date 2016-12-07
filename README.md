@@ -85,6 +85,8 @@ A curated list of awesome forensic analysis tools and resources.
 
 ## Network Forensics
 
+*more at [Malware Analysis List](https://github.com/rshipp/awesome-malware-analysis#network)*
+
 * [Wireshark](https://www.wireshark.org/) - The network traffic analysis tool
 
 ## Windows Artifacts
