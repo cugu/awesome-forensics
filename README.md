@@ -22,7 +22,7 @@ A curated list of awesome forensic analysis tools and resources.
     - [Hex Editors](#hex-editors)
     - [Binary Converter](#binary-converter)
     - [File Grammars](#file-grammars)
-    - [Disk image handling](#disk_image_handling)
+    - [Disk image handling](#disk-image-handling)
     - [Decryption](#decryption)
 - [Learn Forensics](#learn-forensics)
     - [CTFs](#ctfs)
