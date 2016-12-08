@@ -202,7 +202,6 @@ A curated list of awesome forensic analysis tools and resources.
 * [Incident-Response](https://github.com/meirwah/awesome-incident-response)
 * [Infosec](https://github.com/onlurking/awesome-infosec)
 * [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
-* [PCAP Tools](https://github.com/caesar0301/awesome-pcaptools)
 * [Pentesting](https://github.com/enaqx/awesome-pentest)
 * [Security](https://github.com/sbilly/awesome-security)
 
