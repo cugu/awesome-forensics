@@ -95,6 +95,7 @@ A curated list of awesome forensic analysis tools and resources.
 *more at [Malware Analysis List](https://github.com/rshipp/awesome-malware-analysis#windows-artifacts)*
 
 * [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - Collect artifacts on windows
+* [FRED](https://www.pinguin.lu/fred) - A cross-platform microsoft registry hive editor
 * [MFT-Parsers](http://az4n6.blogspot.de/2015/09/whos-your-master-mft-parsers-reviewed.html) - Comparison of MFT-Parsers
 * [MFTExtractor](https://github.com/aarsakian/MFTExtractor) - MFT-Parser
 * [NTFS journal parser](http://strozfriedberg.github.io/ntfs-linker/)
