@@ -69,7 +69,7 @@ A curated list of awesome forensic analysis tools and resources.
 
 ## Carving
 
-*more at [Maleware Analysis List](https://github.com/rshipp/awesome-malware-analysis#file-carving)*
+*more at [Malware Analysis List](https://github.com/rshipp/awesome-malware-analysis#file-carving)*
 
 * [bstrings](https://github.com/EricZimmerman/bstrings) - Improved strings utility
 * [bulk_extractor](https://github.com/simsong/bulk_extractor) - Extracts informations like email adresses, creditscard numbers and histrograms of disk images
@@ -77,17 +77,22 @@ A curated list of awesome forensic analysis tools and resources.
 
 ## Memory Forensics
 
+*more at [Malware Analysis List](https://github.com/rshipp/awesome-malware-analysis#memory-forensics)*
+
 * [KeeFarce](https://github.com/denandz/KeeFarce) - Extract KeePass passwords from memory
-* [see Maleware Analysis List](https://github.com/rshipp/awesome-malware-analysis#memory-forensics)
 * [volatility](https://github.com/volatilityfoundation/volatility) - The memory forensic framework
+* [VolUtility](https://github.com/kevthehermit/VolUtility) - Web App for Volatility framework
 
 ## Network Forensics
 
+*more at [Malware Analysis List](https://github.com/rshipp/awesome-malware-analysis#network), [Forensicswiki's Tool List](http://forensicswiki.org/wiki/Tools:Network_Forensics), [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) and [Wireshark Tool and Script List](https://wiki.wireshark.org/Tools)*
+
+* [SiLK Tools](https://tools.netsa.cert.org/silk/) - SiLK is a suite of network traffic collection and analysis tools
 * [Wireshark](https://www.wireshark.org/) - The network traffic analysis tool
 
 ## Windows Artifacts
 
-*more at [Maleware Analysis List](https://github.com/rshipp/awesome-malware-analysis#windows-artifacts)*
+*more at [Malware Analysis List](https://github.com/rshipp/awesome-malware-analysis#windows-artifacts)*
 
 * [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - Collect artifacts on windows
 * [MFT-Parsers](http://az4n6.blogspot.de/2015/09/whos-your-master-mft-parsers-reviewed.html) - Comparison of MFT-Parsers
