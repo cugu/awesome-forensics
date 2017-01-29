@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Link Status](https://api.travis-ci.org/Cugu/awesome-forensics.svg?branch=master)](https://travis-ci.org/Cugu/awesome-forensics)
 
-A curated list of awesome forensic analysis tools and resources.
+A curated list of awesome **free** (mostly open source) forensic analysis tools and resources.
 
 - [Awesome Forensics](#awesome-forensics)
 - [Collections](#collections)
@@ -37,8 +37,8 @@ A curated list of awesome forensic analysis tools and resources.
 
 # Collections
 
-* [Devon Ackerman's Definitive DFIR Compendium Project](https://docs.google.com/spreadsheets/d/1JY-iyw-LEuPCkBAdjorMJhmhGRusN95eLmejWcky7XU/edit#gid=0) - Google Docs Sheets with lists of certifications, books, blogs, challenges and more
-* [dfir.training](http://www.dfir.training/) - Database with events, tools and other forensics material
+* [DFIR – The definitive compendium project](https://aboutdfir.com/) - Collection of forensic resources for learning and research. Offers lists of certifications, books, blogs, challenges and more
+* [dfir.training](http://www.dfir.training/) - Database of forensic resources focused on events, tools and more
 
 # Tools
 
