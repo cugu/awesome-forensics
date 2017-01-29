@@ -73,6 +73,7 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 
 * [bstrings](https://github.com/EricZimmerman/bstrings) - Improved strings utility
 * [bulk_extractor](https://github.com/simsong/bulk_extractor) - Extracts informations like email adresses, creditscard numbers and histrograms of disk images
+* [floss](https://github.com/fireeye/flare-floss) - Static analysis tool to automatically deobfuscate strings from malware binaries
 * [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - File carving tool
 
 ## Memory Forensics
