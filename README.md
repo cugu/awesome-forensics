@@ -163,8 +163,8 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 * [Digital Forensic Challenge Images](http://www.ashemery.com/dfir.html) - Two DFIR challanges with images
 * [Digital Forensics Tool Testing Images](http://dftt.sourceforge.net/)
 * [FAU Open Research Challenge Digital Forensics](https://openresearchchallenge.org/digitalForensics/appliedforensiccomputinggroup)
-* [The CFReDS Project](http://www.cfreds.nist.gov/)
-  * [Hacking Case (4.5 GB NTFS Image)](http://www.cfreds.nist.gov/Hacking_Case.html)
+* [The CFReDS Project](https://www.cfreds.nist.gov/)
+  * [Hacking Case (4.5 GB NTFS Image)](https://www.cfreds.nist.gov/Hacking_Case.html)
 
 ## Twitter
 
