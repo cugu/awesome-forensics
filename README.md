@@ -63,7 +63,7 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 ## Imageing
 
 * [dc3dd](https://sourceforge.net/projects/dc3dd/) - Improved version of dd
-* [dcfldd](http://dcfldd.sourceforge.net/) - Different improved version of dd (has some bugs!)
+* [dcfldd](http://dcfldd.sourceforge.net/) - Different improved version of dd (this version has some bugs!, another version is on github [adulau/dcfldd](https://github.com/adulau/dcfldd))
 * [FTK Imager](http://accessdata.com/product-download/digital-forensics/ftk-imager-version-3.4.3) - Free imageing tool for windows
 * [Guymager](http://guymager.sourceforge.net/) - Open source version for disk imageing on linux systems
 
