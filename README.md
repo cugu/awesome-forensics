@@ -101,6 +101,7 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 * [MFTExtractor](https://github.com/aarsakian/MFTExtractor) - MFT-Parser
 * [NTFS journal parser](http://strozfriedberg.github.io/ntfs-linker/)
 * [NTFS USN Journal parser](https://github.com/PoorBillionaire/USN-Journal-Parser)
+* [RecuperaBit](https://github.com/Lazza/RecuperaBit) - Reconstruct and recover NTFS data
 * [python-ntfs](https://github.com/williballenthin/python-ntfs) - NTFS analysis
 
 ## OS X Forensics
