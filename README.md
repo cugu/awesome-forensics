@@ -39,6 +39,7 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 
 * [DFIR – The definitive compendium project](https://aboutdfir.com/) - Collection of forensic resources for learning and research. Offers lists of certifications, books, blogs, challenges and more
 * [dfir.training](http://www.dfir.training/) - Database of forensic resources focused on events, tools and more
+* [ForensicArtifacts.com Artifact Repository](https://github.com/ForensicArtifacts/artifacts) - A machine-readable knowledge base of forensic artifacts
 
 # Tools
 
