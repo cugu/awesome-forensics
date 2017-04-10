@@ -44,7 +44,7 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 # Tools
 
 * [Forensics tools on Wikipedia](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
-* [Free computer forensic tools](https://forensiccontrol.com/resources/free-software/) - Comprehensive list of free computer forensic tools
+* [Free computer forensic tools](https://forensiccontrol.com/resources/free-computer-forensic-tools/) - Comprehensive list of free computer forensic tools
 
 ## Distributions
 
