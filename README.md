@@ -140,6 +140,7 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 ## Disk image handling
 
 * [aff4](https://github.com/google/aff4) - AFF4 is an alternative, fast file format
+* [imagemounter](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images
 * [libewf](https://github.com/libyal/libewf) - Libewf is a library and some tools to access the Expert Witness Compression Format (EWF, E01)
 * [xmount](https://www.pinguin.lu/xmount) - Convert between different disk image formats
 
