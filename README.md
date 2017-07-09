@@ -48,6 +48,7 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 
 ## Distributions
 
+* [bitscout](https://github.com/vitaly-kamluk/bitscout) - A LiveCD/LiveUSB for remote forensic acquisition and analysis 
 * [deft](http://www.deftlinux.net/) - Linux distribution for forensic analysis
 
 ## Frameworks
