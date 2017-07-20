@@ -44,7 +44,7 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 # Tools
 
 * [Forensics tools on Wikipedia](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
-* [Free computer forensic tools](https://forensiccontrol.com/resources/free-computer-forensic-tools/) - Comprehensive list of free computer forensic tools
+* [Free computer forensic tools](https://forensiccontrol.com/resources/free-software/) - Comprehensive list of free computer forensic tools
 
 ## Distributions
 
@@ -66,7 +66,7 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 
 * [dc3dd](https://sourceforge.net/projects/dc3dd/) - Improved version of dd
 * [dcfldd](http://dcfldd.sourceforge.net/) - Different improved version of dd (this version has some bugs!, another version is on github [adulau/dcfldd](https://github.com/adulau/dcfldd))
-* [FTK Imager](http://accessdata.com/product-download/digital-forensics/ftk-imager-version-3.4.3) - Free imageing tool for windows
+* [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-3.4.3) - Free imageing tool for windows
 * [Guymager](http://guymager.sourceforge.net/) - Open source version for disk imageing on linux systems
 
 ## Carving
@@ -164,7 +164,7 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 
 ## File System Corpora
 
-* [Digital Forensic Challenge Images](http://www.ashemery.com/dfir.html) - Two DFIR challanges with images
+* [Digital Forensic Challenge Images](https://www.ashemery.com/dfir.html) - Two DFIR challanges with images
 * [Digital Forensics Tool Testing Images](http://dftt.sourceforge.net/)
 * [FAU Open Research Challenge Digital Forensics](https://openresearchchallenge.org/digitalForensics/appliedforensiccomputinggroup)
 * [The CFReDS Project](https://www.cfreds.nist.gov/)
