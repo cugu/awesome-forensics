@@ -111,8 +111,8 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 
 ## Internet Artifacts
 
-* [hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
 * [chrome-url-dumper](https://github.com/eLoopWoo/chrome-url-dumper) - Dump all local stored infromation collected by Chrome
+* [hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
 
 ## Hex Editors
 
