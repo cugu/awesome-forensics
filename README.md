@@ -82,6 +82,8 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 
 *more at [Malware Analysis List](https://github.com/rshipp/awesome-malware-analysis#memory-forensics)*
 
+* [inVtero.net](https://github.com/ShaneK2/inVtero.net) - High speed memory analysis framework
+  developed in .NET supports all Windows x64, includes code integrity and write support.
 * [KeeFarce](https://github.com/denandz/KeeFarce) - Extract KeePass passwords from memory
 * [volatility](https://github.com/volatilityfoundation/volatility) - The memory forensic framework
 * [VolUtility](https://github.com/kevthehermit/VolUtility) - Web App for Volatility framework
