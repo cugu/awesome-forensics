@@ -18,6 +18,7 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
     - [Windows Artifacts](#windows-artifacts)
     - [OS X Forensics](#os-x-forensics)
     - [Internet Artifacts](#internet-artifacts)
+    - [Timeline Analysis](#timeline-analysis)
     - [Hex Editors](#hex-editors)
     - [Binary Converter](#binary-converter)
     - [File Grammars](#file-grammars)
@@ -85,6 +86,7 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 * [inVtero.net](https://github.com/ShaneK2/inVtero.net) - High speed memory analysis framework
   developed in .NET supports all Windows x64, includes code integrity and write support.
 * [KeeFarce](https://github.com/denandz/KeeFarce) - Extract KeePass passwords from memory
+* [Rekall](https://github.com/google/rekall) - Memory Forensic Framework
 * [volatility](https://github.com/volatilityfoundation/volatility) - The memory forensic framework
 * [VolUtility](https://github.com/kevthehermit/VolUtility) - Web App for Volatility framework
 
@@ -116,6 +118,11 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 
 * [chrome-url-dumper](https://github.com/eLoopWoo/chrome-url-dumper) - Dump all local stored infromation collected by Chrome
 * [hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
+
+## Timeline Analysis
+
+* [plaso](https://github.com/log2timeline/plaso) - Extract timestamps from various files and aggregate them
+* [timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
 
 ## Hex Editors
 
