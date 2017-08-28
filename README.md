@@ -6,6 +6,7 @@
 A curated list of awesome **free** (mostly open source) forensic analysis tools and resources.
 
 - [Awesome Forensics](#awesome-forensics)
+- [Books](#books)
 - [Collections](#collections)
 - [Tools](#tools)
     - [Distributions](#distributions)
@@ -35,6 +36,10 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 - [Contributing](#contributing)
 
 ---
+
+# Books
+
+* [The Art of Memory Forensics](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098/) - Detecting Malware and Threats in Windows, Linux, and Mac Memory
 
 # Collections
 
