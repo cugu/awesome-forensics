@@ -39,6 +39,8 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 
 # Books
 
+* [The Art of Memory Forensics](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098/) - Detecting Malware and Threats in Windows, Linux, and Mac Memory
+
 # Collections
 
 * [DFIR – The definitive compendium project](https://aboutdfir.com/) - Collection of forensic resources for learning and research. Offers lists of certifications, books, blogs, challenges and more
