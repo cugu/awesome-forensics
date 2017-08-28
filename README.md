@@ -6,7 +6,6 @@
 A curated list of awesome **free** (mostly open source) forensic analysis tools and resources.
 
 - [Awesome Forensics](#awesome-forensics)
-- [Books](#books)
 - [Collections](#collections)
 - [Tools](#tools)
     - [Distributions](#distributions)
@@ -28,6 +27,7 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 - [Learn Forensics](#learn-forensics)
     - [CTFs](#ctfs)
 - [Resources](#resources)
+    - [Books](#books)
     - [File System Corpora](#file-system-corpora)
     - [Twitter](#twitter)
     - [Blogs](#blogs)
@@ -36,10 +36,6 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 - [Contributing](#contributing)
 
 ---
-
-# Books
-
-* [The Art of Memory Forensics](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098) - Detecting Malware and Threats in Windows, Linux, and Mac Memory
 
 # Collections
 
@@ -175,6 +171,12 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 * [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics)
 
 # Resources
+
+## Books
+
+*more at [Recommended Readings](http://dfir.org/?q=node/8) by Andrew Case*
+
+* [The Art of Memory Forensics](https://www.memoryanalysis.net/amf) - Detecting Malware and Threats in Windows, Linux, and Mac Memory
 
 ## File System Corpora
 
