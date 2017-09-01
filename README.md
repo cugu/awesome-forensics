@@ -177,6 +177,8 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 *more at [Recommended Readings](http://dfir.org/?q=node/8) by Andrew Case*
 
 * [The Art of Memory Forensics](https://www.memoryanalysis.net/amf) - Detecting Malware and Threats in Windows, Linux, and Mac Memory
+* [The Practice of Network Security Monitoring](https://www.amazon.com/gp/product/1593275099) - Understanding Incident Detection and Response
+* [Network Forensics](https://www.amazon.com/Network-Forensics-Tracking-Hackers-Cyberspace/dp/0132564718) - Tracking Hackers through Cyberspace
 
 ## File System Corpora
 
