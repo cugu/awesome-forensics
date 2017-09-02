@@ -176,7 +176,9 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 
 *more at [Recommended Readings](http://dfir.org/?q=node/8) by Andrew Case*
 
+* [Network Forensics: Tracking Hackers through Cyberspace](https://www.pearson.com/us/higher-education/program/Davidoff-Network-Forensics-Tracking-Hackers-through-Cyberspace/PGM322390.html) - Learn to recognize hackers’ tracks and uncover network-based evidence
 * [The Art of Memory Forensics](https://www.memoryanalysis.net/amf) - Detecting Malware and Threats in Windows, Linux, and Mac Memory
+* [The Practice of Network Security Monitoring](https://www.nostarch.com/nsm) - Understanding Incident Detection and Response
 
 ## File System Corpora
 
