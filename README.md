@@ -16,9 +16,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
   - [OS X Forensics](#os-x-forensics)
   - [Internet Artifacts](#internet-artifacts)
   - [Timeline Analysis](#timeline-analysis)
-  - [Hex Editors](#hex-editors)
-  - [Binary Converter](#binary-converter)
-  - [File Grammars](#file-grammars)
   - [Disk image handling](#disk-image-handling)
   - [Decryption](#decryption)
 - [Learn Forensics](#learn-forensics)
@@ -122,30 +119,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [plaso](https://github.com/log2timeline/plaso) - Extract timestamps from various files and aggregate them
 - [timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
 
-### Hex Editors
-
-- [0xED](http://www.suavetech.com/0xed/) - Native hex editor for OS X
-- [Hexinator](https://hexinator.com) - Windows Version of Synalyze It!
-- [HxD](https://mh-nexus.de/de/hxd/) - Small, fast hex editor for Windows
-- [iBored](http://apps.tempel.org/iBored/) - Cross platform, sektor based hex editor
-- [Synalyze It!](http://www.synalysis.net) - Hex editor with templates for binary analysis
-- [wxHex Editor](http://www.wxhexeditor.org) - Cross platform editor with file comparison
-
-### Binary Converter
-
-- [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [DateDecode](http://sandersonforensics.com/forum/content.php?245-DateDecode-a-forensic-tool-to-decode-a-number-as-various-date-formats) - Convert binary data into differnt kinds of date formats
-
-### File Grammars
-
-- [010 Editor Templates](http://www.sweetscape.com/010editor/templates/) - Templates for the 010 Editor
-- [Contruct formats](https://github.com/construct/construct/tree/master/construct/examples/formats) - Parser for different file formats for the python construct package
-- [HFSPlus Grammars](https://github.com/mac4n6/HFSPlus_Resources/tree/master/HFSPlus_Grammars) - HFS+ grammars for Synalysis
-- [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) - Grammars for different file systems
-- [Synalyse It! Grammars](https://www.synalysis.net/formats.xml) - File type grammars for the Synalyze It! editor
-- [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) - Grammars used by TestDisk and PhotoRec
-- [WinHex Templates](https://www.x-ways.net/winhex/templates) - Grammars for the WinHex editor and X-Ways
-
 ### Disk image handling
 
 - [aff4](https://github.com/google/aff4) - AFF4 is an alternative, fast file format
@@ -218,6 +191,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [Android Security](https://github.com/ashishb/android-security-awesome)
 - [AppSec](https://github.com/paragonie/awesome-appsec)
+- [Binary](https://github.com/cugu/awesome-binary)
 - [CTFs](https://github.com/apsdehal/awesome-ctf)
 - [Hacking](https://github.com/carpedm20/awesome-hacking)
 - [Honeypots](https://github.com/paralax/awesome-honeypots)
