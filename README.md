@@ -1,9 +1,8 @@
 # Awesome Forensics
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Link Status](https://api.travis-ci.org/cugu/awesome-forensics.svg?branch=master)](https://travis-ci.org/cugu/awesome-forensics)
 
-A curated list of awesome **free** (mostly open source) forensic analysis tools and resources.
+Curated list of awesome **free** (mostly open source) forensic analysis tools and resources.
 
 - [Awesome Forensics](#awesome-forensics)
 - [Collections](#collections)
@@ -41,7 +40,7 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 
 * [DFIR – The definitive compendium project](https://aboutdfir.com/) - Collection of forensic resources for learning and research. Offers lists of certifications, books, blogs, challenges and more
 * [dfir.training](http://www.dfir.training/) - Database of forensic resources focused on events, tools and more
-* [ForensicArtifacts.com Artifact Repository](https://github.com/ForensicArtifacts/artifacts) - A machine-readable knowledge base of forensic artifacts
+* [ForensicArtifacts.com Artifact Repository](https://github.com/ForensicArtifacts/artifacts) - Machine-readable knowledge base of forensic artifacts
 
 # Tools
 
@@ -50,7 +49,7 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 
 ## Distributions
 
-* [bitscout](https://github.com/vitaly-kamluk/bitscout) - A LiveCD/LiveUSB for remote forensic acquisition and analysis 
+* [bitscout](https://github.com/vitaly-kamluk/bitscout) - LiveCD/LiveUSB for remote forensic acquisition and analysis 
 * [deft](http://www.deftlinux.net/) - Linux distribution for forensic analysis
 
 ## Frameworks
@@ -103,7 +102,7 @@ A curated list of awesome **free** (mostly open source) forensic analysis tools 
 *more at [Malware Analysis List](https://github.com/rshipp/awesome-malware-analysis#windows-artifacts)*
 
 * [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - Collect artifacts on windows
-* [FRED](https://www.pinguin.lu/fred) - A cross-platform microsoft registry hive editor
+* [FRED](https://www.pinguin.lu/fred) - Cross-platform microsoft registry hive editor
 * [MFT-Parsers](http://az4n6.blogspot.de/2015/09/whos-your-master-mft-parsers-reviewed.html) - Comparison of MFT-Parsers
 * [MFTExtractor](https://github.com/aarsakian/MFTExtractor) - MFT-Parser
 * [NTFS journal parser](http://strozfriedberg.github.io/ntfs-linker/)
