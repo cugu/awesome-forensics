@@ -43,7 +43,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ## Tools
 
 - [Forensics tools on Wikipedia](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
-- [Free computer forensic tools](https://forensiccontrol.com/resources/free-software) - Comprehensive list of free computer forensic tools
+- [Free computer forensic tools](https://forensiccontrol.com/resources/free-software/) - Comprehensive list of free computer forensic tools
 
 ### Distributions
 
@@ -63,7 +63,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Imageing
 
-- [dc3dd](https://sourceforge.net/projects/dc3dd) - Improved version of dd
+- [dc3dd](https://sourceforge.net/projects/dc3dd/) - Improved version of dd
 - [dcfldd](http://dcfldd.sourceforge.net) - Different improved version of dd (this version has some bugs!, another version is on github [adulau/dcfldd](https://github.com/adulau/dcfldd))
 - [FTK Imager](http://accessdata.com/product-download/ftk-imager-version-3.4.3) - Free imageing tool for windows
 - [Guymager](http://guymager.sourceforge.net) - Open source version for disk imageing on linux systems
@@ -92,7 +92,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 *more at [Malware Analysis List](https://github.com/rshipp/awesome-malware-analysis#network), [Forensicswiki's Tool List](http://forensicswiki.org/wiki/Tools:Network_Forensics), [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) and [Wireshark Tool and Script List](https://wiki.wireshark.org/Tools)*
 
-- [SiLK Tools](https://tools.netsa.cert.org/silk) - SiLK is a suite of network traffic collection and analysis tools
+- [SiLK Tools](https://tools.netsa.cert.org/silk/) - SiLK is a suite of network traffic collection and analysis tools
 - [Wireshark](https://www.wireshark.org) - The network traffic analysis tool
 
 ### Windows Artifacts
@@ -103,7 +103,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [FRED](https://www.pinguin.lu/fred) - Cross-platform microsoft registry hive editor
 - [MFT-Parsers](http://az4n6.blogspot.de/2015/09/whos-your-master-mft-parsers-reviewed.html) - Comparison of MFT-Parsers
 - [MFTExtractor](https://github.com/aarsakian/MFTExtractor) - MFT-Parser
-- [NTFS journal parser](http://strozfriedberg.github.io/ntfs-linker)
+- [NTFS journal parser](http://strozfriedberg.github.io/ntfs-linker/)
 - [NTFS USN Journal parser](https://github.com/PoorBillionaire/USN-Journal-Parser)
 - [RecuperaBit](https://github.com/Lazza/RecuperaBit) - Reconstruct and recover NTFS data
 - [python-ntfs](https://github.com/williballenthin/python-ntfs) - NTFS analysis
@@ -124,10 +124,10 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Hex Editors
 
-- [0xED](http://www.suavetech.com/0xed) - Native hex editor for OS X
+- [0xED](http://www.suavetech.com/0xed/) - Native hex editor for OS X
 - [Hexinator](https://hexinator.com) - Windows Version of Synalyze It!
-- [HxD](https://mh-nexus.de/de/hxd) - Small, fast hex editor for Windows
-- [iBored](http://apps.tempel.org/iBored) - Cross platform, sektor based hex editor
+- [HxD](https://mh-nexus.de/de/hxd/) - Small, fast hex editor for Windows
+- [iBored](http://apps.tempel.org/iBored/) - Cross platform, sektor based hex editor
 - [Synalyze It!](http://www.synalysis.net) - Hex editor with templates for binary analysis
 - [wxHex Editor](http://www.wxhexeditor.org) - Cross platform editor with file comparison
 
@@ -138,7 +138,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### File Grammars
 
-- [010 Editor Templates](http://www.sweetscape.com/010editor/templates) - Templates for the 010 Editor
+- [010 Editor Templates](http://www.sweetscape.com/010editor/templates/) - Templates for the 010 Editor
 - [Contruct formats](https://github.com/construct/construct/tree/master/construct/examples/formats) - Parser for different file formats for the python construct package
 - [HFSPlus Grammars](https://github.com/mac4n6/HFSPlus_Resources/tree/master/HFSPlus_Grammars) - HFS+ grammars for Synalysis
 - [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) - Grammars for different file systems
@@ -155,8 +155,8 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Decryption
 
-- [hashcat](https://hashcat.net/hashcat) - Fast password cracker with GPU support
-- [John the Ripper](http://www.openwall.com/john) - Password cracker
+- [hashcat](https://hashcat.net/hashcat/) - Fast password cracker with GPU support
+- [John the Ripper](http://www.openwall.com/john/) - Password cracker
 
 ## Learn forensics
 
@@ -211,7 +211,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Other
 
-- [/r/computerforensics/](https://www.reddit.com/r/computerforensics) - Subreddit for computer forensics
+- [/r/computerforensics/](https://www.reddit.com/r/computerforensics/) - Subreddit for computer forensics
 - [ForensicPosters](https://github.com/Invoke-IR/ForensicPosters) - Posters of file system structures
 
 ## Related Awesome Lists
