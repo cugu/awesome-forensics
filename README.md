@@ -50,13 +50,17 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Frameworks
 
 - [dff](https://github.com/arxsys/dff) - Forensic framework
+- [IntelMQ](https://github.com/certtools/intelmq) - IntelMQ collects and processes security feeds
+- [Laika BOSS](https://github.com/lmco/laikaboss) - Laika is an object scanner and intrusion detection system
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - PowerForensics is a framework for live disk forensic analysis
 - [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) - Tools for low level forensic analysis
+- [turbinia](https://github.com/google/turbinia) - Turbinia is an open-source framework for deploying, managing, and running forensic workloads on cloud platforms
 
 ### Live forensics
 
 - [grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
 - [mig](https://github.com/mozilla/mig) - Distributed & real time digital forensics at the speed of the cloud
+- [osquery](https://github.com/facebook/osquery) - SQL powered operating system analytics
 
 ### Imageing
 
@@ -116,6 +120,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Timeline Analysis
 
+- [DFTimewolf](https://github.com/log2timeline/dftimewolf) - Framework for orchestrating forensic collection, processing and data export using GRR and Rekall
 - [plaso](https://github.com/log2timeline/plaso) - Extract timestamps from various files and aggregate them
 - [timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
 
