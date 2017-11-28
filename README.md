@@ -59,6 +59,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Live forensics
 
 - [grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
+- [Linux Expl0rer](https://github.com/intezer/linux-explorer) - Easy-to-use live forensics toolbox for Linux endpoints written in Python & Flask
 - [mig](https://github.com/mozilla/mig) - Distributed & real time digital forensics at the speed of the cloud
 - [osquery](https://github.com/facebook/osquery) - SQL powered operating system analytics
 
