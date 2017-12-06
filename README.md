@@ -145,6 +145,8 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### CTFs
 
 - [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics)
+- [Precision Widgets of North Dakota Intrusion
+](https://betweentwodfirns.blogspot.de/2017/11/dfir-ctf-precision-widgets-of-north.html)
 
 ## Resources
 
