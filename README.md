@@ -96,6 +96,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [SiLK Tools](https://tools.netsa.cert.org/silk/) - SiLK is a suite of network traffic collection and analysis tools
 - [Wireshark](https://www.wireshark.org) - The network traffic analysis tool
+- [NetLytics](https://github.com/marty90/netlytics/) - Analytics platform to process network data on Spark.
 
 ### Windows Artifacts
 
