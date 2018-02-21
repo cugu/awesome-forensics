@@ -105,6 +105,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [ArtifactExtractor](https://github.com/Silv3rHorn/ArtifactExtractor) - Extract common Windows artifacts from source images and VSCs
 - [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - Collect artifacts on windows
 - [FRED](https://www.pinguin.lu/fred) - Cross-platform microsoft registry hive editor
+- [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 - [MFT-Parsers](http://az4n6.blogspot.de/2015/09/whos-your-master-mft-parsers-reviewed.html) - Comparison of MFT-Parsers
 - [MFTExtractor](https://github.com/aarsakian/MFTExtractor) - MFT-Parser
 - [NTFS journal parser](http://strozfriedberg.github.io/ntfs-linker/)
