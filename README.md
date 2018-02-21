@@ -102,6 +102,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 *more at [Malware Analysis List](https://github.com/rshipp/awesome-malware-analysis#windows-artifacts)*
 
+- [ArtifactExtractor](https://github.com/Silv3rHorn/ArtifactExtractor) - Extract common Windows artifacts from source images and VSCs
 - [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - Collect artifacts on windows
 - [FRED](https://www.pinguin.lu/fred) - Cross-platform microsoft registry hive editor
 - [MFT-Parsers](http://az4n6.blogspot.de/2015/09/whos-your-master-mft-parsers-reviewed.html) - Comparison of MFT-Parsers
