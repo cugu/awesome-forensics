@@ -34,7 +34,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ## Collections
 
 - [DFIR – The definitive compendium project](https://aboutdfir.com) - Collection of forensic resources for learning and research. Offers lists of certifications, books, blogs, challenges and more
-- [dfir.training](http://www.dfir.training) - Database of forensic resources focused on events, tools and more
+- [dfir.training](https://www.dfir.training/) - Database of forensic resources focused on events, tools and more
 - [ForensicArtifacts.com Artifact Repository](https://github.com/ForensicArtifacts/artifacts) - Machine-readable knowledge base of forensic artifacts
 
 ## Tools
@@ -68,7 +68,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [dc3dd](https://sourceforge.net/projects/dc3dd/) - Improved version of dd
 - [dcfldd](http://dcfldd.sourceforge.net) - Different improved version of dd (this version has some bugs!, another version is on github [adulau/dcfldd](https://github.com/adulau/dcfldd))
-- [FTK Imager](http://accessdata.com/product-download/ftk-imager-version-3.4.3) - Free imageing tool for windows
+- [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-3.4.3/) - Free imageing tool for windows
 - [Guymager](http://guymager.sourceforge.net) - Open source version for disk imageing on linux systems
 
 ### Carving
@@ -78,7 +78,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [bstrings](https://github.com/EricZimmerman/bstrings) - Improved strings utility
 - [bulk_extractor](https://github.com/simsong/bulk_extractor) - Extracts informations like email adresses, creditscard numbers and histrograms of disk images
 - [floss](https://github.com/fireeye/flare-floss) - Static analysis tool to automatically deobfuscate strings from malware binaries
-- [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - File carving tool
+- [photorec](https://www.cgsecurity.org/wiki/PhotoRec) - File carving tool
 
 ### Memory Forensics
 
@@ -161,7 +161,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [Network Forensics: Tracking Hackers through Cyberspace](https://www.pearson.com/us/higher-education/program/Davidoff-Network-Forensics-Tracking-Hackers-through-Cyberspace/PGM322390.html) - Learn to recognize hackers’ tracks and uncover network-based evidence
 - [The Art of Memory Forensics](https://www.memoryanalysis.net/amf) - Detecting Malware and Threats in Windows, Linux, and Mac Memory
-- [The Practice of Network Security Monitoring](https://www.nostarch.com/nsm) - Understanding Incident Detection and Response
+- [The Practice of Network Security Monitoring](https://nostarch.com/nsm) - Understanding Incident Detection and Response
 
 ### File System Corpora
 
