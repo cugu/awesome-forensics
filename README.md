@@ -1,4 +1,4 @@
-# Awesome Forensics [![Link Status](https://api.travis-ci.org/cugu/awesome-forensics.svg?branch=master)](https://travis-ci.org/cugu/awesome-forensics)
+# Awesome Forensics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/cugu/awesome-forensics) [![Link Status](https://api.travis-ci.org/cugu/awesome-forensics.svg?branch=master)](https://travis-ci.org/cugu/awesome-forensics)
 
 Curated list of awesome **free** (mostly open source) forensic analysis tools and resources.
 
