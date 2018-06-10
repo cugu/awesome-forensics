@@ -117,6 +117,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### OS X Forensics
 
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor)
+- [OSX Collect](https://github.com/Yelp/osxcollector)
 
 ### Internet Artifacts
 
