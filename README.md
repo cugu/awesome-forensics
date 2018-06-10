@@ -107,7 +107,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - Collect artifacts on windows
 - [FRED](https://www.pinguin.lu/fred) - Cross-platform microsoft registry hive editor
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
-- [MFT-Parsers](http://az4n6.blogspot.de/2015/09/whos-your-master-mft-parsers-reviewed.html) - Comparison of MFT-Parsers
+- [MFT-Parsers](http://az4n6.blogspot.com/2015/09/whos-your-master-mft-parsers-reviewed.html) - Comparison of MFT-Parsers
 - [MFTExtractor](https://github.com/aarsakian/MFTExtractor) - MFT-Parser
 - [NTFS journal parser](http://strozfriedberg.github.io/ntfs-linker/)
 - [NTFS USN Journal parser](https://github.com/PoorBillionaire/USN-Journal-Parser)
@@ -153,7 +153,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics)
 - [Precision Widgets of North Dakota Intrusion
-](https://betweentwodfirns.blogspot.de/2017/11/dfir-ctf-precision-widgets-of-north.html)
+](https://betweentwodfirns.blogspot.com/2017/11/dfir-ctf-precision-widgets-of-north.html)
 
 ## Resources
 
