@@ -147,7 +147,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ## Learn forensics
 
-- [Forensic challanges](http://www.amanhardikar.com/mindmaps/ForensicChallenges.html) - Mindmap of forensic challanges
+- [Forensic challenges](http://www.amanhardikar.com/mindmaps/ForensicChallenges.html) - Mindmap of forensic challenges
 - [Training material](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational) - Online training material by European Union Agency for Network and Information Security for different topics (e.g. [Digital forensics](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational/#digital_forensics), [Network forensics](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational/#network_forensics))
 
 ### CTFs
@@ -168,7 +168,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### File System Corpora
 
-- [Digital Forensic Challenge Images](https://www.ashemery.com/dfir.html) - Two DFIR challanges with images
+- [Digital Forensic Challenge Images](https://www.ashemery.com/dfir.html) - Two DFIR challenges with images
 - [Digital Forensics Tool Testing Images](http://dftt.sourceforge.net)
 - [FAU Open Research Challenge Digital Forensics](https://openresearchchallenge.org/digitalForensics/appliedforensiccomputinggroup)
 - [The CFReDS Project](https://www.cfreds.nist.gov)
