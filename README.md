@@ -18,6 +18,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
   - [Timeline Analysis](#timeline-analysis)
   - [Disk image handling](#disk-image-handling)
   - [Decryption](#decryption)
+  - [Management](#management)
 - [Learn Forensics](#learn-forensics)
   - [CTFs](#ctfs)
 - [Resources](#resources)
@@ -70,7 +71,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [dc3dd](https://sourceforge.net/projects/dc3dd/) - Improved version of dd
 - [dcfldd](http://dcfldd.sourceforge.net) - Different improved version of dd (this version has some bugs!, another version is on github [adulau/dcfldd](https://github.com/adulau/dcfldd))
 - [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-3.4.3/) - Free imageing tool for windows
-- [Guymager](http://guymager.sourceforge.net) - Open source version for disk imageing on linux systems
+- [Guymager](http://guymager.sourceforge.io) - Open source version for disk imageing on linux systems
 
 ### Carving
 
@@ -144,7 +145,11 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Decryption
 
 - [hashcat](https://hashcat.net/hashcat/) - Fast password cracker with GPU support
-- [John the Ripper](http://www.openwall.com/john/) - Password cracker
+- [John the Ripper](https://www.openwall.com/john/) - Password cracker
+
+### Management
+
+- [dfirtrack](https://github.com/stuhli/dfirtrack) - Digital Forensics and Incident Response Tracking application, track systems
 
 ## Learn forensics
 
@@ -208,7 +213,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [Android Security](https://github.com/ashishb/android-security-awesome)
 - [AppSec](https://github.com/paragonie/awesome-appsec)
-- [Binary](https://github.com/cugu/awesome-binary)
 - [CTFs](https://github.com/apsdehal/awesome-ctf)
 - [Hacking](https://github.com/carpedm20/awesome-hacking)
 - [Honeypots](https://github.com/paralax/awesome-honeypots)
