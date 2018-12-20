@@ -119,6 +119,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### OS X Forensics
 
+- [mac_apt (macOS Artifact Parsing Tool)](https://github.com/ydkhatri/mac_apt) - Extracts forensic artifacts from disk images or live machines
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor)
 - [OSX Collect](https://github.com/Yelp/osxcollector)
 
