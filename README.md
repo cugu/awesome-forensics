@@ -133,6 +133,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [DFTimewolf](https://github.com/log2timeline/dftimewolf) - Framework for orchestrating forensic collection, processing and data export using GRR and Rekall
 - [plaso](https://github.com/log2timeline/plaso) - Extract timestamps from various files and aggregate them
+- [timeliner](https://github.com/airbus-cert/timeliner) - A rewrite of mactime, a bodyfile reader
 - [timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
 
 ### Disk image handling
