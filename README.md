@@ -46,7 +46,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Distributions
 
 - [bitscout](https://github.com/vitaly-kamluk/bitscout) - LiveCD/LiveUSB for remote forensic acquisition and analysis
-- [deft](http://www.deftlinux.net) - Linux distribution for forensic analysis
+- [deft](http://na.mirror.garr.it/mirrors/deft/) - Linux distribution for forensic analysis
 - [SANS Investigative Forensics Toolkit (sift)](https://github.com/teamdfir/sift) - Linux distribution for forensic analysis
 
 ### Frameworks
@@ -64,13 +64,13 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
 - [Linux Expl0rer](https://github.com/intezer/linux-explorer) - Easy-to-use live forensics toolbox for Linux endpoints written in Python & Flask
 - [mig](https://github.com/mozilla/mig) - Distributed & real time digital forensics at the speed of the cloud
-- [osquery](https://github.com/facebook/osquery) - SQL powered operating system analytics
+- [osquery](https://github.com/osquery/osquery) - SQL powered operating system analytics
 
 ### Imageing
 
 - [dc3dd](https://sourceforge.net/projects/dc3dd/) - Improved version of dd
 - [dcfldd](http://dcfldd.sourceforge.net) - Different improved version of dd (this version has some bugs!, another version is on github [adulau/dcfldd](https://github.com/adulau/dcfldd))
-- [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-3.4.3/) - Free imageing tool for windows
+- [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-3-4-3/) - Free imageing tool for windows
 - [Guymager](https://guymager.sourceforge.io/) - Open source version for disk imageing on linux systems
 
 ### Carving
@@ -186,7 +186,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Twitter
 
 - [@4n6ist](https://twitter.com/4n6ist)
-- [@4n6k](https://twitter.com/4n6k)
 - [@aheadless](https://twitter.com/aheadless)
 - [@AppleExaminer](https://twitter.com/AppleExaminer) - Apple OS X & iOS Digital Forensics
 - [@blackbagtech](https://twitter.com/blackbagtech)
