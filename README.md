@@ -14,6 +14,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
   - [Network Forensics](#network-forensics)
   - [Windows Artifacts](#windows-artifacts)
   - [OS X Forensics](#os-x-forensics)
+  - [Docker Forensics](#docker-forensics)
   - [Internet Artifacts](#internet-artifacts)
   - [Timeline Analysis](#timeline-analysis)
   - [Disk image handling](#disk-image-handling)
@@ -126,6 +127,11 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor)
 - [OSX Collect](https://github.com/Yelp/osxcollector)
 
+### Docker Forensics
+
+- [dof (Docker Forensics Toolkit)](https://github.com/docker-forensics-toolkit/toolkit) - Extracts and interprets forensic artifacts from disk images of Docker Host systems
+- [Docker Explorer](https://github.com/google/docker-explorer) Extracts and interprets forensic artifacts from disk images of Docker Host systems
+
 ### Internet Artifacts
 
 - [chrome-url-dumper](https://github.com/eLoopWoo/chrome-url-dumper) - Dump all local stored infromation collected by Chrome
@@ -142,7 +148,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [aff4](https://github.com/google/aff4) - AFF4 is an alternative, fast file format
 - [Disk Arbitrator](https://github.com/aburgh/Disk-Arbitrator) - A Mac OS X forensic utility designed to help the user ensure correct forensic procedures are followed during imaging of a disk device
-- [docker-explorer](https://github.com/google/docker-explorer/) - A tool to help forensicate offline docker acquisitions
 - [imagemounter](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images
 - [libewf](https://github.com/libyal/libewf) - Libewf is a library and some tools to access the Expert Witness Compression Format (EWF, E01)
 - [xmount](https://www.pinguin.lu/xmount) - Convert between different disk image formats
