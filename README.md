@@ -42,7 +42,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ## Tools
 
 - [Forensics tools on Wikipedia](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
-- [Free computer forensic tools](https://www.forensiccontrol.com/resources/free-software) - Comprehensive list of free computer forensic tools
 
 ### Distributions
 
@@ -99,7 +98,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 *more at [Malware Analysis List](https://github.com/rshipp/awesome-malware-analysis#network), [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) and [Wireshark Tool and Script List](https://wiki.wireshark.org/Tools)*
 
-<!-- , [Forensicswiki's Tool List](http://forensicswiki.org/wiki/Tools:Network_Forensics) -->
+<!-- , [Forensicswiki's Tool List](hxxp://forensicswiki.org/wiki/Tools:Network_Forensics) -->
 
 - [SiLK Tools](https://tools.netsa.cert.org/silk/) - SiLK is a suite of network traffic collection and analysis tools
 - [Wireshark](https://www.wireshark.org) - The network traffic analysis tool
