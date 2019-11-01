@@ -7,6 +7,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
+    - name: Setup Ruby for use with actions
+      uses: actions/setup-ruby@v1.0.0
     - name: Test README.md
       run: |
         gem install awesome_bot
