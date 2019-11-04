@@ -54,6 +54,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [dff](https://github.com/arxsys/dff) - Forensic framework
 - [dexter](https://github.com/coinbase/dexter) - Dexter is a forensics acquisition framework designed to be extensible and secure
 - [IntelMQ](https://github.com/certtools/intelmq) - IntelMQ collects and processes security feeds
+- [Kuiper](https://github.com/DFIRKuiper/Kuiper) - Digital Investigation Platform
 - [Laika BOSS](https://github.com/lmco/laikaboss) - Laika is an object scanner and intrusion detection system
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - PowerForensics is a framework for live disk forensic analysis
 - [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) - Tools for low level forensic analysis
