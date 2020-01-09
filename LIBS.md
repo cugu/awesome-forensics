@@ -1,5 +1,5 @@
 List of libraries that can be used in forensic software. This is mostly just an extension of the
-ovelibyal/rview of [github.com/libyal/libyal](https://github.com/libyal/libyal/wiki/Overview), which is an
+overview of [github.com/libyal/libyal](https://github.com/libyal/libyal/wiki/Overview), which is an
 insane collection of parsers.
 
 | URL                                                                   | Description                                                                | Language         | Last Commit                                                                               | Stars                                                                                   | License                                                                           |
