@@ -1,6 +1,6 @@
 List of libraries that can be used in forensic software. This is mostly just an extension of the
 overview of [github.com/libyal/libyal](https://github.com/libyal/libyal/wiki/Overview), which is an
-insane collection of parsers.
+insane collection of parsers. View a little wider: http://cugu.github.io/awesome-forensics/LIBS
 
 | URL                                                                   | Description (Language)                                                         |                                                                                      Last Commit |                                                                                       Stars |                                                                                  License |
 |-----------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------:|
