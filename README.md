@@ -8,11 +8,13 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
   - [Distributions](#distributions)
   - [Frameworks](#frameworks)
   - [Live forensics](#live-forensics)
+  - [Acquisition](#acquisition)
   - [Imageing](#imageing)
   - [Carving](#carving)
   - [Memory Forensics](#memory-forensics)
   - [Network Forensics](#network-forensics)
   - [Windows Artifacts](#windows-artifacts)
+    - [NTFS/MFT Processing](#ntfsmft-processing)
   - [OS X Forensics](#os-x-forensics)
   - [Docker Forensics](#docker-forensics)
   - [Internet Artifacts](#internet-artifacts)
@@ -61,13 +63,19 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [turbinia](https://github.com/google/turbinia) - Turbinia is an open-source framework for deploying, managing, and running forensic workloads on cloud platforms
 - [IPED - Indexador e Processador de Evidências Digitais](https://github.com/lfcnassif/IPED) - Brazilian Federal Police Tool for Forensic Investigations
 
-
 ### Live forensics
 
 - [grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
 - [Linux Expl0rer](https://github.com/intezer/linux-explorer) - Easy-to-use live forensics toolbox for Linux endpoints written in Python & Flask
 - [mig](https://github.com/mozilla/mig) - Distributed & real time digital forensics at the speed of the cloud
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system analytics
+
+### Acquisition
+
+- [ArtifactExtractor](https://github.com/Silv3rHorn/ArtifactExtractor) - Extract common Windows artifacts from source images and VSCs
+- [DFIR ORC](https://dfir-orc.github.io/) - Forensics artefact collection tool for systems running Microsoft Windows
+- [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - Collect artifacts on windows
+- [Velociraptor](https://github.com/Velocidex/velociraptor) - Velociraptor is a tool for collecting host based state information using Velocidex Query Language (VQL) queries
 
 ### Imageing
 
@@ -78,8 +86,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Carving
 
-*more at [Malware Analysis List](https://github.com/rshipp/awesome-malware-analysis#file-carving)*
-
 - [bstrings](https://github.com/EricZimmerman/bstrings) - Improved strings utility
 - [bulk_extractor](https://github.com/simsong/bulk_extractor) - Extracts informations like email adresses, creditscard numbers and histrograms of disk images
 - [floss](https://github.com/fireeye/flare-floss) - Static analysis tool to automatically deobfuscate strings from malware binaries
@@ -88,35 +94,23 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Memory Forensics
 
-*more at [Malware Analysis List](https://github.com/rshipp/awesome-malware-analysis#memory-forensics)*
-
 - [inVtero.net](https://github.com/ShaneK2/inVtero.net) - High speed memory analysis framework
-  developed in .NET supports all Windows x64, includes code integrity and write support.
+  developed in .NET supports all Windows x64, includes code integrity and write support
 - [KeeFarce](https://github.com/denandz/KeeFarce) - Extract KeePass passwords from memory
 - [Rekall](https://github.com/google/rekall) - Memory Forensic Framework
 - [volatility](https://github.com/volatilityfoundation/volatility) - The memory forensic framework
 - [VolUtility](https://github.com/kevthehermit/VolUtility) - Web App for Volatility framework
 
-### Network Forensics
-
-*more at [Malware Analysis List](https://github.com/rshipp/awesome-malware-analysis#network), [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) and [Wireshark Tool and Script List](https://wiki.wireshark.org/Tools)*
-
-<!-- , [Forensicswiki's Tool List](hxxp://forensicswiki.org/wiki/Tools:Network_Forensics) -->
-
-- [SiLK Tools](https://tools.netsa.cert.org/silk/) - SiLK is a suite of network traffic collection and analysis tools
-- [Wireshark](https://www.wireshark.org) - The network traffic analysis tool
-- [NetLytics](https://github.com/marty90/netlytics/) - Analytics platform to process network data on Spark.
-
 ### Windows Artifacts
 
-*more at [Malware Analysis List](https://github.com/rshipp/awesome-malware-analysis#windows-artifacts)*
-
-- [ArtifactExtractor](https://github.com/Silv3rHorn/ArtifactExtractor) - Extract common Windows artifacts from source images and VSCs
 - [Beagle](https://github.com/yampelo/beagle) -  Transform data sources and logs into graphs
-- [DFIR ORC](https://dfir-orc.github.io/) - Forensics artefact collection tool for systems running Microsoft Windows
-- [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - Collect artifacts on windows
 - [FRED](https://www.pinguin.lu/fred) - Cross-platform microsoft registry hive editor
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
+- [python-evt](https://github.com/williballenthin/python-evt) - Pure Python parser for classic Windows Event Log files (.evt)
+- [RegRipper2.8](https://github.com/keydet89/RegRipper2.8) - RegRipper is an open source Perl tool for parsing the Registry and presenting it for analysis.
+
+#### NTFS/MFT Processing
+
 - [MFT-Parsers](http://az4n6.blogspot.com/2015/09/whos-your-master-mft-parsers-reviewed.html) - Comparison of MFT-Parsers
 - [MFTExtractor](https://github.com/aarsakian/MFTExtractor) - MFT-Parser
 - [NTFS journal parser](http://strozfriedberg.github.io/ntfs-linker/)
@@ -173,8 +167,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### CTFs
 
 - [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics)
-- [Precision Widgets of North Dakota Intrusion
-](https://betweentwodfirns.blogspot.com/2017/11/dfir-ctf-precision-widgets-of-north.html)
+- [Precision Widgets of North Dakota Intrusion](https://betweentwodfirns.blogspot.com/2017/11/dfir-ctf-precision-widgets-of-north.html)
 
 ## Resources
 
