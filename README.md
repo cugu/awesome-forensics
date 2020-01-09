@@ -111,6 +111,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [ArtifactExtractor](https://github.com/Silv3rHorn/ArtifactExtractor) - Extract common Windows artifacts from source images and VSCs
 - [Beagle](https://github.com/yampelo/beagle) -  Transform data sources and logs into graphs
+- [DFIR ORC](https://dfir-orc.github.io/) - Forensics artefact collection tool for systems running Microsoft Windows
 - [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - Collect artifacts on windows
 - [FRED](https://www.pinguin.lu/fred) - Cross-platform microsoft registry hive editor
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
