@@ -39,7 +39,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [DFIR – The definitive compendium project](https://aboutdfir.com) - Collection of forensic resources for learning and research. Offers lists of certifications, books, blogs, challenges and more
 - [dfir.training](https://www.dfir.training/) - Database of forensic resources focused on events, tools and more
-- [ForensicArtifacts.com Artifact Repository](https://github.com/ForensicArtifacts/artifacts) - Machine-readable knowledge base of forensic artifacts
+- :star: [ForensicArtifacts.com Artifact Repository](https://github.com/ForensicArtifacts/artifacts) - Machine-readable knowledge base of forensic artifacts
 
 ## Tools
 
@@ -59,7 +59,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [Kuiper](https://github.com/DFIRKuiper/Kuiper) - Digital Investigation Platform
 - [Laika BOSS](https://github.com/lmco/laikaboss) - Laika is an object scanner and intrusion detection system
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - PowerForensics is a framework for live disk forensic analysis
-- [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) - Tools for low level forensic analysis
+- :star: [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) - Tools for low level forensic analysis
 - [turbinia](https://github.com/google/turbinia) - Turbinia is an open-source framework for deploying, managing, and running forensic workloads on cloud platforms
 - [IPED - Indexador e Processador de Evidências Digitais](https://github.com/lfcnassif/IPED) - Brazilian Federal Police Tool for Forensic Investigations
 
@@ -89,7 +89,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [bstrings](https://github.com/EricZimmerman/bstrings) - Improved strings utility
 - [bulk_extractor](https://github.com/simsong/bulk_extractor) - Extracts informations like email adresses, creditscard numbers and histrograms of disk images
 - [floss](https://github.com/fireeye/flare-floss) - Static analysis tool to automatically deobfuscate strings from malware binaries
-- [photorec](https://www.cgsecurity.org/wiki/PhotoRec) - File carving tool
+- :star: [photorec](https://www.cgsecurity.org/wiki/PhotoRec) - File carving tool
 - [swap_digger](https://github.com/sevagas/swap_digger) - A bash script used to automate Linux swap analysis, automating swap extraction and searches for Linux user credentials, Web form credentials, Web form emails, etc.
 
 ### Memory Forensics
@@ -137,7 +137,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Timeline Analysis
 
 - [DFTimewolf](https://github.com/log2timeline/dftimewolf) - Framework for orchestrating forensic collection, processing and data export using GRR and Rekall
-- [plaso](https://github.com/log2timeline/plaso) - Extract timestamps from various files and aggregate them
+- :star: [plaso](https://github.com/log2timeline/plaso) - Extract timestamps from various files and aggregate them
 - [timeliner](https://github.com/airbus-cert/timeliner) - A rewrite of mactime, a bodyfile reader
 - [timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
 
