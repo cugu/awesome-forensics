@@ -133,6 +133,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [chrome-url-dumper](https://github.com/eLoopWoo/chrome-url-dumper) - Dump all local stored infromation collected by Chrome
 - [hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
+- [unfurl](https://github.com/obsidianforensics/unfurl) - Extract and visualize data from URLs
 
 ### Timeline Analysis
 
