@@ -159,6 +159,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [dfirtrack](https://github.com/stuhli/dfirtrack) - Digital Forensics and Incident Response Tracking application, track systems
 - [Incidents](https://github.com/veeral-patel/incidents) - Web application for organizing non-trivial security investigations. Built on the idea that incidents are trees of tickets, where some tickets are leads
+- [True Positive](https://truepositive.app) - A web-based SaaS tool that helps you track and collaborate on your org's security investigations. It's well-documented, you can do everything you can do in the UI via the API, you can standardize your IR processes with case templates, you can restrict access to cases and painlessly create cases from emails. Best of all - it's free, with full functionality, up to 5 users.
 
 ## Learn forensics
 
