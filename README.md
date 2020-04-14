@@ -23,6 +23,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
   - [Disk image handling](#disk-image-handling)
   - [Decryption](#decryption)
   - [Management](#management)
+  - [Picture Analysis](#picture-analysis)
 - [Learn Forensics](#learn-forensics)
   - [CTFs](#ctfs)
 - [Resources](#resources)
@@ -164,6 +165,10 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [dfirtrack](https://github.com/stuhli/dfirtrack) - Digital Forensics and Incident Response Tracking application, track systems
 - [Incidents](https://github.com/veeral-patel/incidents) - Web application for organizing non-trivial security investigations. Built on the idea that incidents are trees of tickets, where some tickets are leads
+
+### Picture Analysis
+
+- [sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital photographic image forensic toolset
 
 ## Learn forensics
 
