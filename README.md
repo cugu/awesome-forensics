@@ -130,6 +130,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Android Forensics
 
 - [ALEAPP](https://github.com/abrignoni/ALEAPP) - An Android Logs Events and Protobuf Parser
+- [MEAT](https://github.com/jfarley248/MEAT) - Perform different kinds of acquisitions on iOS devices
 
 ### Docker Forensics
 
