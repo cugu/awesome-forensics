@@ -16,7 +16,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
   - [Windows Artifacts](#windows-artifacts)
     - [NTFS/MFT Processing](#ntfsmft-processing)
   - [OS X Forensics](#os-x-forensics)
-  - [Android Forensics](#android-forensics)
+  - [Mobile Forensics](#mobile-forensics)
   - [Docker Forensics](#docker-forensics)
   - [Internet Artifacts](#internet-artifacts)
   - [Timeline Analysis](#timeline-analysis)
@@ -127,7 +127,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor)
 - [OSX Collect](https://github.com/Yelp/osxcollector)
 
-### Android Forensics
+### Mobile Forensics
 
 - [ALEAPP](https://github.com/abrignoni/ALEAPP) - An Android Logs Events and Protobuf Parser
 - [MEAT](https://github.com/jfarley248/MEAT) - Perform different kinds of acquisitions on iOS devices
