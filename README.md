@@ -78,6 +78,8 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [DFIR ORC](https://dfir-orc.github.io/) - Forensics artefact collection tool for systems running Microsoft Windows
 - [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - Collect artifacts on windows
 - [Velociraptor](https://github.com/Velocidex/velociraptor) - Velociraptor is a tool for collecting host based state information using Velocidex Query Language (VQL) queries
+- [LiME](https://github.com/504ensicsLabs/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD.
+- [AVML](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux.
 
 ### Imageing
 
