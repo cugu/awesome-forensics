@@ -50,8 +50,8 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Distributions
 
 - [bitscout](https://github.com/vitaly-kamluk/bitscout) - LiveCD/LiveUSB for remote forensic acquisition and analysis
-- [deft](http://na.mirror.garr.it/mirrors/deft/) - Linux distribution for forensic analysis
 - [SANS Investigative Forensics Toolkit (sift)](https://github.com/teamdfir/sift) - Linux distribution for forensic analysis
+- [Tsurugi Linux](https://tsurugi-linux.org/) - Linux distribution for forensic analysis
 
 ### Frameworks
 
@@ -63,7 +63,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - PowerForensics is a framework for live disk forensic analysis
 - :star: [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) - Tools for low level forensic analysis
 - [turbinia](https://github.com/google/turbinia) - Turbinia is an open-source framework for deploying, managing, and running forensic workloads on cloud platforms
-- [IPED - Indexador e Processador de Evidências Digitais](https://github.com/lfcnassif/IPED) - Brazilian Federal Police Tool for Forensic Investigations
+- [IPED - Indexador e Processador de Evidências Digitais](https://github.com/sepinf-inc/IPED) - Brazilian Federal Police Tool for Forensic Investigations
 
 ### Live forensics
 
@@ -112,7 +112,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [FRED](https://www.pinguin.lu/fred) - Cross-platform microsoft registry hive editor
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 - [python-evt](https://github.com/williballenthin/python-evt) - Pure Python parser for classic Windows Event Log files (.evt)
-- [RegRipper2.8](https://github.com/keydet89/RegRipper2.8) - RegRipper is an open source Perl tool for parsing the Registry and presenting it for analysis.
+- [RegRipper3.0](https://github.com/keydet89/RegRipper3.0) - RegRipper is an open source Perl tool for parsing the Registry and presenting it for analysis.
 
 #### NTFS/MFT Processing
 
