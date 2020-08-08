@@ -77,6 +77,8 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [artifactcollector](https://github.com/forensicanalysis/artifactcollector) - A customizable agent to collect forensic artifacts on any Windows, macOS or Linux system
 - [ArtifactExtractor](https://github.com/Silv3rHorn/ArtifactExtractor) - Extract common Windows artifacts from source images and VSCs
 - [AVML](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux
+- [Belkasoft Acquisition Tool](https://belkasoft.com/bat) - Belkasoft Acquisition Tool (or BelkaImager) allows you to make images of hard and removable drives, Android and iOS devices, and download Cloud data
+- [Belkasoft RAM Capturer](https://belkasoft.com/ram-capturer) - Volatile Memory Acquisition Tool
 - [DFIR ORC](https://dfir-orc.github.io/) - Forensics artefact collection tool for systems running Microsoft Windows
 - [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - Collect artifacts on windows
 - [LiME](https://github.com/504ensicsLabs/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD
@@ -208,7 +210,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [@4n6ist](https://twitter.com/4n6ist)
 - [@aheadless](https://twitter.com/aheadless)
 - [@AppleExaminer](https://twitter.com/AppleExaminer) - Apple OS X & iOS Digital Forensics
-- [@blackbagtech](https://twitter.com/blackbagtech)
 - [@carrier4n6](https://twitter.com/carrier4n6) - Brian Carrier, author of Autopsy and the Sleuth Kit
 - [@CindyMurph](https://twitter.com/CindyMurph) - Detective & Digital Forensic Examiner
 - [@forensikblog](https://twitter.com/forensikblog) - Computer forensic geek
@@ -221,6 +222,12 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [@sleuthkit](https://twitter.com/sleuthkit)
 - [@williballenthin](https://twitter.com/williballenthin)
 - [@XWaysGuide](https://twitter.com/XWaysGuide)
+
+Vendors:
+
+- [@Belkasoft](https://twitter.com/Belkasoft)
+- [@blackbagtech](https://twitter.com/blackbagtech)
+
 
 ### Blogs
 
