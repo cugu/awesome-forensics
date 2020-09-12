@@ -7,7 +7,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [Tools](#tools)
   - [Distributions](#distributions)
   - [Frameworks](#frameworks)
-  - [Live forensics](#live-forensics)
+  - [Live Forensics](#live-forensics)
   - [Acquisition](#acquisition)
   - [Imageing](#imageing)
   - [Carving](#carving)
