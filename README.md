@@ -134,7 +134,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [Beagle](https://github.com/yampelo/beagle) -  Transform data sources and logs into graphs
 - [FRED](https://www.pinguin.lu/fred) - Cross-platform microsoft registry hive editor
-- [LastActivityView](https://nirsoft.net/utils/computer_activity_view.html) - LastActivityView by Nirsoftis a tool for Windows operating system that collects information from various sources on a running system, and displays a log of actions made by the user and events occurred on this computer. 
+- [LastActivityView](https://www.nirsoft.net/utils/computer_activity_view.html) - LastActivityView by Nirsoftis a tool for Windows operating system that collects information from various sources on a running system, and displays a log of actions made by the user and events occurred on this computer. 
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 - [python-evt](https://github.com/williballenthin/python-evt) - Pure Python parser for classic Windows Event Log files (.evt)
 - [RegRipper3.0](https://github.com/keydet89/RegRipper3.0) - RegRipper is an open source Perl tool for parsing the Registry and presenting it for analysis
@@ -154,7 +154,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### OS X Forensics
 
 - [APFS Fuse](https://github.com/sgan81/apfs-fuse) - A read-only FUSE driver for the new Apple File System
-- [Disk-Arbitrator](https://github.com/aburgh/Disk-Arbitrator) - A Mac OS X forensic utility designed to help the user ensure correct forensic procedures are followed during imaging of a disk device
 - [mac_apt (macOS Artifact Parsing Tool)](https://github.com/ydkhatri/mac_apt) - Extracts forensic artifacts from disk images or live machines
 - [MacLocationsScraper](https://github.com/mac4n6/Mac-Locations-Scraper) - Dump the contents of the location database files on iOS and macOS
 - [macMRUParser](https://github.com/mac4n6/macMRU-Parser) - Python script to parse the Most Recently Used (MRU) plist files on macOS into a more human friendly format
@@ -182,7 +181,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [ChromeCacheView](https://www.nirsoft.net/utils/chrome_cache_view.html) - A small utility that reads the cache folder of Google Chrome Web browser, and displays the list of all files currently stored in the cache
 - [chrome-url-dumper](https://github.com/eLoopWoo/chrome-url-dumper) - Dump all local stored infromation collected by Chrome
-- [Dumpzilla](http://www.dumpzilla.org/) - Extract all forensic interesting information of Firefox, Iceweasel and Seamonkey browsers
 - [hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
 - [unfurl](https://github.com/obsidianforensics/unfurl) - Extract and visualize data from URLs
 
@@ -241,7 +239,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [AnalystUnknown Cyber Range](https://aucr.io/auth/login?next=%2F)
 - [Champlain College DFIR CTF](https://champdfa-ccsc-sp20.ctfd.io)
 - [Corelight CTF](https://www3.corelight.com/l/420832/2020-03-31/lcxk2q)
-- [CyberDefenders](https://cyberdefenders.org) 
+- [CyberDefenders](https://cyberdefenders.org/labs/?type=ctf) 
 - [DefCon CTFs](https://archive.ooo) - archive of DEF CON CTF challenges.
 - [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics)
 - [IncidentResponse Challenge](https://incident-response-challenge.com)
