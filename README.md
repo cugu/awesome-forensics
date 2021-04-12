@@ -8,6 +8,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
   - [Distributions](#distributions)
   - [Frameworks](#frameworks)
   - [Live Forensics](#live-forensics)
+  - [IOC Scanner](#ioc-scanner)
   - [Acquisition](#acquisition)
   - [Imageing](#imageing)
   - [Carving](#carving)
@@ -73,6 +74,12 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [mig](https://github.com/mozilla/mig) - Distributed & real time digital forensics at the speed of the cloud
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system analytics
 - [UAC](https://github.com/tclahr/uac) - UAC (Unix-like Artifacts Collector) is a Live Response collection tool for Incident Reponse that makes use of built-in tools to automate the collection of Unix-like systems artifacts. Supported systems: AIX, FreeBSD, Linux, macOS, NetBSD, Netscaler, OpenBSD and Solaris.
+
+### IOC Scanner
+
+- [Fenrir](https://github.com/Neo23x0/Fenrir) - Simple Bash IOC Scanner
+- [Loki](https://github.com/Neo23x0/Loki) - Simple IOC and Incident Response Scanner 
+- [THOR Lite](https://www.nextron-systems.com/thor-lite/) - Free IOC and YARA Scanner
 
 ### Acquisition
 
