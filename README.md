@@ -243,7 +243,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [DefCon CTFs](https://archive.ooo) - archive of DEF CON CTF challenges.
 - [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics)
 - [IncidentResponse Challenge](https://incident-response-challenge.com)
-- [MagnetForensics CTF Challenge](https://www.magnetforensics.com/blog/magnet-weekly-ctf-challenge)
+- [MagnetForensics CTF Challenge](https://www.magnetforensics.com/blog/magnet-weekly-ctf-challenge/)
 - [MalwareTech Challenges](https://www.malwaretech.com/challenges)
 - [MalwareTraffic Analysis](https://www.malware-traffic-analysis.net/training-exercises.html)
 - [MemLabs](https://github.com/stuxnet999/MemLabs)
