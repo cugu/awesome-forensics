@@ -218,7 +218,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Metadata Forensics
 
 - [ExifTool](https://exiftool.org/) by Phil Harvey
-- [Exiv2](https://www.exiv2.org) - Exiv2 is a Cross-platform C++ library and a command line utility to manage image metadata
 - [FOCA](https://github.com/ElevenPaths/FOCA) - FOCA is a tool used mainly to find metadata and hidden information in the documents
 
 ### Steganography
