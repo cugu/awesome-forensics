@@ -250,7 +250,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [PivotProject](https://pivotproject.org/challenges/digital-forensics-challenge)
 - [Precision Widgets of North Dakota Intrusion](https://betweentwodfirns.blogspot.com/2017/11/dfir-ctf-precision-widgets-of-north.html)
 - [ReverseEngineering Challenges](https://challenges.re)
-- [SANS Forensics Challenges](https://digital-forensics.sans.org/community/challenges)
 
 ## Resources
 
@@ -258,7 +257,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [ForensicsFocus](https://www.forensicfocus.com/)
 - [Insecstitute Resources](https://resources.infosecinstitute.com/)
-- [SANS Digital Forensics](https://digital-forensics.sans.org/)
+- [SANS Digital Forensics](https://www.sans.org/digital-forensics-incident-response/)
 
 
 ### Blogs
