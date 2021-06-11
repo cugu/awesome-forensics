@@ -207,7 +207,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Management
 
-- [dfirtrack](https://github.com/stuhli/dfirtrack) - Digital Forensics and Incident Response Tracking application, track systems
+- [dfirtrack](https://github.com/dfirtrack/dfirtrack) - Digital Forensics and Incident Response Tracking application, track systems
 - [Incidents](https://github.com/veeral-patel/incidents) - Web application for organizing non-trivial security investigations. Built on the idea that incidents are trees of tickets, where some tickets are leads
 
 ### Picture Analysis
