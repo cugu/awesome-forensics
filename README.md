@@ -104,7 +104,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [dc3dd](https://sourceforge.net/projects/dc3dd/) - Improved version of dd
 - [dcfldd](http://dcfldd.sourceforge.net) - Different improved version of dd (this version has some bugs!, another version is on github [adulau/dcfldd](https://github.com/adulau/dcfldd))
-- [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-3-4-3/) - Free imageing tool for windows
+- [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-3-4-3) - Free imageing tool for windows
 - :star: [Guymager](https://guymager.sourceforge.io/) - Open source version for disk imageing on linux systems
 
 ### Carving
@@ -235,13 +235,11 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### CTFs and Challenges
 
-- [AnalystUnknown Cyber Range](https://aucr.io/auth/login?next=%2F)
 - [Champlain College DFIR CTF](https://champdfa-ccsc-sp20.ctfd.io)
 - [Corelight CTF](https://www3.corelight.com/l/420832/2020-03-31/lcxk2q)
 - [CyberDefenders](https://cyberdefenders.org/labs/?type=ctf) 
 - [DefCon CTFs](https://archive.ooo) - archive of DEF CON CTF challenges.
 - [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics)
-- [IncidentResponse Challenge](https://incident-response-challenge.com)
 - [MagnetForensics CTF Challenge](https://www.magnetforensics.com/blog/magnet-weekly-ctf-challenge/)
 - [MalwareTech Challenges](https://www.malwaretech.com/challenges)
 - [MalwareTraffic Analysis](https://www.malware-traffic-analysis.net/training-exercises.html)
