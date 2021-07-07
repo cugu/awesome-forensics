@@ -99,6 +99,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [LiME](https://github.com/504ensicsLabs/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD
 - [Magnet RAM Capture](https://www.magnetforensics.com/resources/magnet-ram-capture/) - A free imaging tool designed to capture the physical memory 
 - [Velociraptor](https://github.com/Velocidex/velociraptor) - Velociraptor is a tool for collecting host based state information using Velocidex Query Language (VQL) queries
+- [WinTriage](https://www.securizame.com/wintriage-the-triage-tool-for-windows-dfirers/) - Wintriage is a live response tool that extracts Windows artifacts. It must be executed with local or domain administrator privileges and recommended to be done from an external drive.
 
 ### Imaging
 
@@ -304,6 +305,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [@sleuthkit](https://twitter.com/sleuthkit)
 - [@williballenthin](https://twitter.com/williballenthin)
 - [@XWaysGuide](https://twitter.com/XWaysGuide)
+- [@inginformatico](https://twitter.com/inginformatico) - DFIR analyst and enthusiast
 
 Vendors:
 
