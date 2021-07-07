@@ -315,7 +315,7 @@ Vendors:
 - [/r/computerforensics/](https://www.reddit.com/r/computerforensics/) - Subreddit for computer forensics
 - [/r/LearnDigitalForensics](https://www.reddit.com/r/LearnDigitalForensics/) - Subreddit for learning Digital Forensics
 - [ForensicPosters](https://github.com/Invoke-IR/ForensicPosters) - Posters of file system structures
-- [SANS Posters](https://www.sans.org/security-resources/posters/) - Free posters provided by SANS
+- [SANS Posters](https://www.sans.org/posters/) - Free posters provided by SANS
 
 ## Related Awesome Lists
 
