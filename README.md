@@ -261,7 +261,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Blogs
 
-- [Cyberforensicator](https://cyberforensicator.com/)
 - [DigitalForensicsMagazine](https://digitalforensicsmagazine.com/blogs/)
 - [FlashbackData](https://www.flashbackdata.com/blog/)
 - [Netresec](https://www.netresec.com/index.ashx?page=Blog)
