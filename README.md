@@ -128,6 +128,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Network Forensics
 
+- [Kismet](https://github.com/kismetwireless/kismet) - A passive wireless sniffer
 - [NetworkMiner](https://www.netresec.com/?page=Networkminer) - Network Forensic Analysis Tool
 - :star: [WireShark](https://www.wireshark.org/) - A network protocol analyzer
 
