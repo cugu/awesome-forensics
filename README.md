@@ -237,7 +237,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### CTFs and Challenges
 
 - [Champlain College DFIR CTF](https://champdfa-ccsc-sp20.ctfd.io)
-- [Corelight CTF](https://www3.corelight.com/l/420832/2020-03-31/lcxk2q)
 - [CyberDefenders](https://cyberdefenders.org/labs/?type=ctf) 
 - [DefCon CTFs](https://archive.ooo) - archive of DEF CON CTF challenges.
 - [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics)
