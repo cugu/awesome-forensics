@@ -82,6 +82,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### IOC Scanner
 
+- [Fastfinder](https://github.com/codeyourweb/fastfinder) - Fast customisable cross-platform suspicious file finder.  Supports md5/sha1/sha256 hashs, litteral/wildcard strings, regular expressions and YARA rules. Can easily be packed to be deployed on any windows / linux host.
 - [Fenrir](https://github.com/Neo23x0/Fenrir) - Simple Bash IOC Scanner
 - [Loki](https://github.com/Neo23x0/Loki) - Simple IOC and Incident Response Scanner
 - [Redline](https://www.fireeye.com/services/freeware/redline.html) - Free endpoint security tool from FireEye
