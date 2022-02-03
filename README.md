@@ -62,6 +62,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - :star:[Autopsy](http://www.sleuthkit.org/autopsy/) - SleuthKit GUI
 - [dff](https://github.com/arxsys/dff) - Forensic framework
 - [dexter](https://github.com/coinbase/dexter) - Dexter is a forensics acquisition framework designed to be extensible and secure
+- [hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser) - A tool to analyse files from a forensic acquisition to find known/unknown hashes from [hashlookup](https://www.circl.lu/services/hashlookup/) API or using a local Bloom filter.
 - [IntelMQ](https://github.com/certtools/intelmq) - IntelMQ collects and processes security feeds
 - [Kuiper](https://github.com/DFIRKuiper/Kuiper) - Digital Investigation Platform
 - [Laika BOSS](https://github.com/lmco/laikaboss) - Laika is an object scanner and intrusion detection system
