@@ -103,6 +103,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [Magnet RAM Capture](https://www.magnetforensics.com/resources/magnet-ram-capture/) - A free imaging tool designed to capture the physical memory 
 - [Velociraptor](https://github.com/Velocidex/velociraptor) - Velociraptor is a tool for collecting host based state information using Velocidex Query Language (VQL) queries
 - [WinTriage](https://www.securizame.com/wintriage-the-triage-tool-for-windows-dfirers/) - Wintriage is a live response tool that extracts Windows artifacts. It must be executed with local or domain administrator privileges and recommended to be done from an external drive.
+- [unix_collector](https://github.com/op7ic/unix_collector) - A live forensic collection script for UNIX-like systems as a single script.
 
 ### Imaging
 
@@ -164,6 +165,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [macMRUParser](https://github.com/mac4n6/macMRU-Parser) - Python script to parse the Most Recently Used (MRU) plist files on macOS into a more human friendly format
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor)
 - [OSX Collect](https://github.com/Yelp/osxcollector)
+- [unix_collector](https://github.com/op7ic/unix_collector) - A live forensic collection script for UNIX-like systems as a single script.
 
 ### Mobile Forensics
 
@@ -271,7 +273,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [thisweekin4n6.wordpress.com](thisweekin4n6.wordpress.com) - Weekly updates for forensics
 - [Zena Forensics](https://blog.digital-forensics.it/)
 
-
 ### Books
 
 *more at [Recommended Readings](http://dfir.org/?q=node/8) by Andrew Case*
@@ -317,6 +318,10 @@ Vendors:
 - [/r/LearnDigitalForensics](https://www.reddit.com/r/LearnDigitalForensics/) - Subreddit for learning Digital Forensics
 - [ForensicPosters](https://github.com/Invoke-IR/ForensicPosters) - Posters of file system structures
 - [SANS Posters](https://www.sans.org/posters/) - Free posters provided by SANS
+
+### Labs
+
+- [BlueTeam.Lab](https://github.com/op7ic/BlueTeam.Lab) - Blue Team detection lab created with Terraform and Ansible in Azure.
 
 ## Related Awesome Lists
 
