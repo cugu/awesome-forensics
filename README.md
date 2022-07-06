@@ -87,7 +87,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [Fastfinder](https://github.com/codeyourweb/fastfinder) - Fast customisable cross-platform suspicious file finder. Supports md5/sha1/sha256 hashes, literal/wildcard strings, regular expressions and YARA rules
 - [Fenrir](https://github.com/Neo23x0/Fenrir) - Simple Bash IOC Scanner
 - [Loki](https://github.com/Neo23x0/Loki) - Simple IOC and Incident Response Scanner
-- [Redline](https://www.fireeye.com/services/freeware/redline.html) - Free endpoint security tool from FireEye
+- [Redline](https://fireeye.market/apps/211364) - Free endpoint security tool from FireEye
 - [THOR Lite](https://www.nextron-systems.com/thor-lite/) - Free IOC and YARA Scanner
 
 ### Acquisition
@@ -99,7 +99,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [CrowdResponse](https://www.crowdstrike.com/resources/community-tools/crowdresponse/) - A static host data collection tool by CrowdStrike
 - [DFIR ORC](https://dfir-orc.github.io/) - Forensics artefact collection tool for systems running Microsoft Windows
 - [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - Collect artifacts on windows
-- [FireEye Memoryze](https://www.fireeye.com/services/freeware/memoryze.html) - A free memory forensic software 
+- [FireEye Memoryze](https://fireeye.market/apps/211368) - A free memory forensic software 
 - [LiME](https://github.com/504ensicsLabs/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD
 - [Magnet RAM Capture](https://www.magnetforensics.com/resources/magnet-ram-capture/) - A free imaging tool designed to capture the physical memory 
 - [unix_collector](https://github.com/op7ic/unix_collector) - A live forensic collection script for UNIX-like systems as a single script.
