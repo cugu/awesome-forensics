@@ -67,6 +67,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [Kuiper](https://github.com/DFIRKuiper/Kuiper) - Digital Investigation Platform
 - [Laika BOSS](https://github.com/lmco/laikaboss) - Laika is an object scanner and intrusion detection system
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - PowerForensics is a framework for live disk forensic analysis
+- [TAPIR](https://github.com/tap-ir/tapir) - TAPIR (Trustable Artifacts Parser for Incident Response) is a multi-user, client/server, incident response framework
 - :star: [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) - Tools for low level forensic analysis
 - [turbinia](https://github.com/google/turbinia) - Turbinia is an open-source framework for deploying, managing, and running forensic workloads on cloud platforms
 - [IPED - Indexador e Processador de Evidências Digitais](https://github.com/sepinf-inc/IPED) - Brazilian Federal Police Tool for Forensic Investigations
