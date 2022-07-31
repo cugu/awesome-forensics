@@ -279,7 +279,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 *more at [Recommended Readings](http://dfir.org/?q=node/8) by Andrew Case*
 
-- [Network Forensics: Tracking Hackers through Cyberspace](https://www.pearson.com/us/higher-education/program/Davidoff-Network-Forensics-Tracking-Hackers-through-Cyberspace/PGM322390.html) - Learn to recognize hackers’ tracks and uncover network-based evidence
+- [Network Forensics: Tracking Hackers through Cyberspace](https://www.pearson.com/en-us/subject-catalog/p/Davidoff-Network-Forensics-Tracking-Hackers-through-Cyberspace/P200000009228) - Learn to recognize hackers’ tracks and uncover network-based evidence
 - [The Art of Memory Forensics](https://www.memoryanalysis.net/amf) - Detecting Malware and Threats in Windows, Linux, and Mac Memory
 - [The Practice of Network Security Monitoring](https://nostarch.com/nsm) - Understanding Incident Detection and Response
 
@@ -308,11 +308,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [@williballenthin](https://twitter.com/williballenthin)
 - [@XWaysGuide](https://twitter.com/XWaysGuide)
 - [@inginformatico](https://twitter.com/inginformatico) - DFIR analyst and enthusiast
-
-Vendors:
-
-- [@Belkasoft](https://twitter.com/Belkasoft)
-- [@blackbagtech](https://twitter.com/blackbagtech)
 
 ### Other
 
