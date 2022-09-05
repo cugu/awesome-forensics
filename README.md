@@ -269,7 +269,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [FlashbackData](https://www.flashbackdata.com/blog/)
 - [Netresec](https://www.netresec.com/index.ashx?page=Blog)
-- [roDigitalForensics](https://prodigital4n6.com/blog/)
 - [SANS Forensics Blog](https://www.sans.org/blog/?focus-area=digital-forensics)
 - [SecurityAffairs](https://securityaffairs.co/wordpress/) - blog by Pierluigi Paganini
 - [thisweekin4n6.wordpress.com](thisweekin4n6.wordpress.com) - Weekly updates for forensics
