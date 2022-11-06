@@ -89,6 +89,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [Loki](https://github.com/Neo23x0/Loki) - Simple IOC and Incident Response Scanner
 - [Redline](https://fireeye.market/apps/211364) - Free endpoint security tool from FireEye
 - [THOR Lite](https://www.nextron-systems.com/thor-lite/) - Free IOC and YARA Scanner
+- [recon](https://github.com/rusty-ferris-club/recon) - Performance oriented file finder with support for SQL querying, index and analyze file metadata with support for YARA.
 
 ### Acquisition
 
