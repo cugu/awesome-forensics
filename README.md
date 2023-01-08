@@ -115,7 +115,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [dc3dd](https://sourceforge.net/projects/dc3dd/) - Improved version of dd
 - [dcfldd](https://dcfldd.sourceforge.net/) - Different improved version of dd (this version has some bugs!, another version is on github [adulau/dcfldd](https://github.com/adulau/dcfldd))
-- [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-4-5) - Free imageing tool for windows
+- [FTK Imager](https://www.exterro.com/ftk-imager) - Free imageing tool for windows
 - :star: [Guymager](https://guymager.sourceforge.io/) - Open source version for disk imageing on linux systems
 
 ### Carving
@@ -277,7 +277,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [FlashbackData](https://www.flashbackdata.com/blog/)
 - [Netresec](https://www.netresec.com/index.ashx?page=Blog)
 - [SANS Forensics Blog](https://www.sans.org/blog/?focus-area=digital-forensics)
-- [SecurityAffairs](https://securityaffairs.co/wordpress/) - blog by Pierluigi Paganini
+- [SecurityAffairs](https://securityaffairs.co/) - blog by Pierluigi Paganini
 - [thisweekin4n6.wordpress.com](thisweekin4n6.wordpress.com) - Weekly updates for forensics
 - [Zena Forensics](https://blog.digital-forensics.it/)
 
