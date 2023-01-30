@@ -299,7 +299,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Twitter
 
 - [@4n6ist](https://twitter.com/4n6ist)
-- [@aheadless](https://twitter.com/aheadless)
 - [@AppleExaminer](https://twitter.com/AppleExaminer) - Apple OS X & iOS Digital Forensics
 - [@carrier4n6](https://twitter.com/carrier4n6) - Brian Carrier, author of Autopsy and the Sleuth Kit
 - [@forensikblog](https://twitter.com/forensikblog) - Computer forensic geek
@@ -336,7 +335,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [Pentesting](https://github.com/enaqx/awesome-pentest)
 - [Security](https://github.com/sbilly/awesome-security)
-- [Social Engineering](https://github.com/v2-dev/awesome-social-engineering)
+- [Social Engineering](https://github.com/giuliacassara/awesome-social-engineering)
 - [YARA](https://github.com/InQuest/awesome-yara)
 
 ## [Contributing](CONTRIBUTING.md)
