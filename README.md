@@ -253,7 +253,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### CTFs and Challenges
 
 - [BelkaCTF](https://belkasoft.com/ctf) - CTFs by Belkasoft
-- [Champlain College DFIR CTF](https://champdfa-ccsc-sp20.ctfd.io)
 - [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/?type=ctf) 
 - [DefCon CTFs](https://archive.ooo) - archive of DEF CON CTF challenges.
 - [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics)
