@@ -2,7 +2,7 @@
 
 Curated list of awesome **free** (mostly open source) forensic analysis tools and resources.
 
-- [Awesome Forensics ](#awesome-forensics-)
+- Awesome Forensics
   - [Collections](#collections)
   - [Tools](#tools)
     - [Distributions](#distributions)
@@ -34,7 +34,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
     - [Blogs](#blogs)
     - [Books](#books)
     - [File System Corpora](#file-system-corpora)
-    - [Twitter](#twitter)
     - [Other](#other)
     - [Labs](#labs)
   - [Related Awesome Lists](#related-awesome-lists)
@@ -296,23 +295,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [Digital Forensics Tool Testing Images](https://sourceforge.net/projects/dftt/)
 - [The CFReDS Project](https://cfreds.nist.gov)
   - [Hacking Case (4.5 GB NTFS Image)](https://cfreds.nist.gov/Hacking_Case.html)
-
-### Twitter
-
-- [@4n6ist](https://twitter.com/4n6ist)
-- [@AppleExaminer](https://twitter.com/AppleExaminer) - Apple OS X & iOS Digital Forensics
-- [@carrier4n6](https://twitter.com/carrier4n6) - Brian Carrier, author of Autopsy and the Sleuth Kit
-- [@forensikblog](https://twitter.com/forensikblog) - Computer forensic geek
-- [@HECFBlog](https://twitter.com/HECFBlog) - SANS Certified Instructor
-- [@Hexacorn](https://twitter.com/Hexacorn) - DFIR+Malware
-- [@hiddenillusion](https://twitter.com/hiddenillusion)
-- [@iamevltwin](https://twitter.com/iamevltwin) - Mac Nerd, Forensic Analyst, Author & Instructor of SANS FOR518
-- [@jaredcatkinson](https://twitter.com/jaredcatkinson) - PowerShell Forensics
-- [@maridegrazia](https://twitter.com/maridegrazia) - Computer Forensics Examiner
-- [@sleuthkit](https://twitter.com/sleuthkit)
-- [@williballenthin](https://twitter.com/williballenthin)
-- [@XWaysGuide](https://twitter.com/XWaysGuide)
-- [@inginformatico](https://twitter.com/inginformatico) - DFIR analyst and enthusiast
 
 ### Other
 
