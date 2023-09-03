@@ -106,7 +106,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - Collect artifacts on windows
 - [FireEye Memoryze](https://fireeye.market/apps/211368) - A free memory forensic software 
 - [LiME](https://github.com/504ensicsLabs/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD
-- [Magnet RAM Capture](https://www.magnetforensics.com/resources/magnet-ram-capture/) - A free imaging tool designed to capture the physical memory
+- [Magnet RAM Capture / DumpIt](https://www.magnetforensics.com/resources/magnet-dumpit-for-windows/) - A free imaging tool designed to capture the physical memory
 - [SPECTR3](https://github.com/alpine-sec/SPECTR3) - Acquire, triage and investigate remote evidence via portable iSCSI readonly access
 - [unix_collector](https://github.com/op7ic/unix_collector) - A live forensic collection script for UNIX-like systems as a single script.
 - [Velociraptor](https://github.com/Velocidex/velociraptor) - Velociraptor is a tool for collecting host based state information using Velocidex Query Language (VQL) queries
