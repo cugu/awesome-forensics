@@ -173,6 +173,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [macMRUParser](https://github.com/mac4n6/macMRU-Parser) - Python script to parse the Most Recently Used (MRU) plist files on macOS into a more human friendly format
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor)
 - [OSX Collect](https://github.com/Yelp/osxcollector)
+- [swiftGuard](https://github.com/Lennolium/swiftGuard) - Anti-forensic macOS application designed to safeguard your system/server by monitoring USB ports for unauthorized access.
 
 ### Mobile Forensics
 
