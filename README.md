@@ -141,6 +141,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [Kismet](https://github.com/kismetwireless/kismet) - A passive wireless sniffer
 - [NetworkMiner](https://www.netresec.com/?page=Networkminer) - Network Forensic Analysis Tool
+- [Squey](https://squey.org) - Logs/PCAP visualization software designed to detect anomalies and weak signals in large amounts of data.
 - :star: [WireShark](https://www.wireshark.org/) - A network protocol analyzer
 
 ### Windows Artifacts
