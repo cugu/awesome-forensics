@@ -152,11 +152,10 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [Hayabusa](https://github.com/Yamato-Security/hayabusa) - A a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [LastActivityView](https://www.nirsoft.net/utils/computer_activity_view.html) - LastActivityView by Nirsoftis a tool for Windows operating system that collects information from various sources on a running system, and displays a log of actions made by the user and events occurred on this computer. 
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
+- [PyShadow](https://github.com/alicangnll/pyshadow) - A library for Windows to read shadow copies, delete shadow copies, create symbolic links to shadow copies, and create shadow copies
 - [python-evt](https://github.com/williballenthin/python-evt) - Pure Python parser for classic Windows Event Log files (.evt)
 - [RegRipper3.0](https://github.com/keydet89/RegRipper3.0) - RegRipper is an open source Perl tool for parsing the Registry and presenting it for analysis
 - [RegRippy](https://github.com/airbus-cert/regrippy) - A framework for reading and extracting useful forensics data from Windows registry hives
-- [PyShadow](https://github.com/alicangnll/pyshadow) - A library for Windows to read shadow copies, delete shadow copies, create symbolic links to shadow copies, and create shadow copies
-
 
 #### NTFS/MFT Processing
 
