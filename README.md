@@ -155,6 +155,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [python-evt](https://github.com/williballenthin/python-evt) - Pure Python parser for classic Windows Event Log files (.evt)
 - [RegRipper3.0](https://github.com/keydet89/RegRipper3.0) - RegRipper is an open source Perl tool for parsing the Registry and presenting it for analysis
 - [RegRippy](https://github.com/airbus-cert/regrippy) - A framework for reading and extracting useful forensics data from Windows registry hives
+- [PyShadow](https://github.com/alicangnll/pyshadow) - A library for Windows to read shadow copies, delete shadow copies, create symbolic links to shadow copies, and create shadow copies
 
 
 #### NTFS/MFT Processing
