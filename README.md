@@ -283,7 +283,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [FlashbackData](https://www.flashbackdata.com/blog/)
 - [Netresec](https://www.netresec.com/index.ashx?page=Blog)
 - [SANS Forensics Blog](https://www.sans.org/blog/?focus-area=digital-forensics)
-- [SecurityAffairs](https://securityaffairs.co/) - blog by Pierluigi Paganini
+- [SecurityAffairs](https://securityaffairs.com/) - blog by Pierluigi Paganini
 - [thisweekin4n6.wordpress.com](thisweekin4n6.wordpress.com) - Weekly updates for forensics
 - [Zena Forensics](https://blog.digital-forensics.it/)
 
@@ -304,7 +304,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Other
 
-- [/r/computerforensics/](https://www.reddit.com/r/computerforensics/?rdt=47940) - Subreddit for computer forensics
+- [/r/computerforensics/](https://www.reddit.com/r/computerforensics/) - Subreddit for computer forensics
 - [ForensicPosters](https://github.com/Invoke-IR/ForensicPosters) - Posters of file system structures
 - [SANS Posters](https://www.sans.org/posters/) - Free posters provided by SANS
 
