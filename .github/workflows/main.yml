@@ -17,4 +17,4 @@ jobs:
     - name: Test README.md
       run: |
         gem install awesome_bot
-        awesome_bot --allow-ssl --request-delay 1 README.md -w "dfir.org"
+        awesome_bot --allow-ssl --request-delay 1 README.md -w "dfir.org,reddit.com"
