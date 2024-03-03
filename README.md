@@ -106,7 +106,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - Collect artifacts on windows
 - [FireEye Memoryze](https://fireeye.market/apps/211368) - A free memory forensic software
 - [FIT](https://github.com/fit-project/fit) - Forensic acquisition of web pages, emails, social media, etc.
-- [ForensicMiner](https://github.com/YosfanEilay/ForensicMiner) - A PowerShell-based DFIR automation tool, for artifact and evidence collection on Windows machines.
+- [ForensicMiner](https://github.com/securityjoes/ForensicMiner) - A PowerShell-based DFIR automation tool, for artifact and evidence collection on Windows machines.
 - [LiME](https://github.com/504ensicsLabs/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD
 - [Magnet RAM Capture / DumpIt](https://www.magnetforensics.com/resources/magnet-dumpit-for-windows/) - A free imaging tool designed to capture the physical memory
 - [SPECTR3](https://github.com/alpine-sec/SPECTR3) - Acquire, triage and investigate remote evidence via portable iSCSI readonly access
@@ -118,7 +118,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [dc3dd](https://sourceforge.net/projects/dcfldd/) - Improved version of dd
 - [dcfldd](https://dcfldd.sourceforge.net/) - Different improved version of dd (this version has some bugs!, another version is on github [adulau/dcfldd](https://github.com/adulau/dcfldd))
-- [FTK Imager](https://www.exterro.com/ftk-imager) - Free imageing tool for windows
+- [FTK Imager](https://www.exterro.com/digital-forensics-software/ftk-imager) - Free imageing tool for windows
 - :star: [Guymager](https://sourceforge.net/projects/guymager/) - Open source version for disk imageing on linux systems
 
 ### Carving
