@@ -101,7 +101,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [ArtifactExtractor](https://github.com/Silv3rHorn/ArtifactExtractor) - Extract common Windows artifacts from source images and VSCs
 - [AVML](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux
 - [Belkasoft RAM Capturer](https://belkasoft.com/ram-capturer) - Volatile Memory Acquisition Tool
-- [CrowdResponse](https://www.crowdstrike.com/resources/community-tools/crowdresponse/) - A static host data collection tool by CrowdStrike
 - [DFIR ORC](https://dfir-orc.github.io/) - Forensics artefact collection tool for systems running Microsoft Windows
 - [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - Collect artifacts on windows
 - [FireEye Memoryze](https://fireeye.market/apps/211368) - A free memory forensic software
@@ -273,9 +272,8 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Web
 
 - [ForensicsFocus](https://www.forensicfocus.com/)
-- [Insecstitute Resources](https://resources.infosecinstitute.com/)
+- [Insecstitute Resources](https://www.infosecinstitute.com/resources/)
 - [SANS Digital Forensics](https://www.sans.org/digital-forensics-incident-response/)
-
 
 ### Blogs
 
