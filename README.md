@@ -148,6 +148,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Windows Artifacts
 
 - [Beagle](https://github.com/yampelo/beagle) -  Transform data sources and logs into graphs
+- [Blauhaunt](https://github.com/cgosec/Blauhaunt) - A tool collection for filtering and visualizing logon events
 - [FRED](https://www.pinguin.lu/fred) - Cross-platform microsoft registry hive editor
 - [Hayabusa](https://github.com/Yamato-Security/hayabusa) - A a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [LastActivityView](https://www.nirsoft.net/utils/computer_activity_view.html) - LastActivityView by Nirsoftis a tool for Windows operating system that collects information from various sources on a running system, and displays a log of actions made by the user and events occurred on this computer. 
