@@ -97,7 +97,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Acquisition
 
-- [UFADE](https://github.com/prosch88/UFADE) - Extract files from iOS devices on Linux and MacOS. Mostly a wrapper for pymobiledevice3. Creates iTunes-style backups and advanced logical backups
 - [Acquire](https://github.com/fox-it/acquire) - Acquire is a tool to quickly gather forensic artifacts from disk images or a live system into a lightweight container
 - [artifactcollector](https://github.com/forensicanalysis/artifactcollector) - A customizable agent to collect forensic artifacts on any Windows, macOS or Linux system
 - [ArtifactExtractor](https://github.com/Silv3rHorn/ArtifactExtractor) - Extract common Windows artifacts from source images and VSCs
@@ -111,6 +110,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [LiME](https://github.com/504ensicsLabs/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD
 - [Magnet RAM Capture / DumpIt](https://www.magnetforensics.com/resources/magnet-dumpit-for-windows/) - A free imaging tool designed to capture the physical memory
 - [SPECTR3](https://github.com/alpine-sec/SPECTR3) - Acquire, triage and investigate remote evidence via portable iSCSI readonly access
+- [UFADE](https://github.com/prosch88/UFADE) - Extract files from iOS devices on Linux and MacOS. Mostly a wrapper for pymobiledevice3. Creates iTunes-style backups and advanced logical backups.
 - [unix_collector](https://github.com/op7ic/unix_collector) - A live forensic collection script for UNIX-like systems as a single script.
 - [Velociraptor](https://github.com/Velocidex/velociraptor) - Velociraptor is a tool for collecting host based state information using Velocidex Query Language (VQL) queries
 - [WinTriage](https://www.securizame.com/wintriage-the-triage-tool-for-windows-dfirers/) - Wintriage is a live response tool that extracts Windows artifacts. It must be executed with local or domain administrator privileges and recommended to be done from an external drive.
