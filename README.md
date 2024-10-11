@@ -121,7 +121,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [dcfldd](https://sourceforge.net/projects/dcfldd/) - Different improved version of dd (this version has some bugs!, another version is on github [adulau/dcfldd](https://github.com/adulau/dcfldd))
 - [FTK Imager](https://www.exterro.com/digital-forensics-software/ftk-imager) - Free imageing tool for windows
 - :star: [Guymager](https://sourceforge.net/projects/guymager/) - Open source version for disk imageing on linux systems
-- [4n6pi](https://github.com/plonxyz/4n6pi) -  forensic disk imager for disks, designed to run on a Raspberry Pi, powered by libewf
+- [4n6pi](https://github.com/plonxyz/4n6pi) - Forensic disk imager, designed to run on a Raspberry Pi, powered by libewf
 
 ### Carving
 
