@@ -248,7 +248,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Steganography
 
 - [Sonicvisualizer](https://www.sonicvisualiser.org)
-- [Steghide](https://github.com/StefanoDeVuono/steghide) - is a steganography program that hides data in various kinds of image and audio files
+- [Steghide](https://github.com/StegHigh/steghide) - is a steganography program that hides data in various kinds of image and audio files
 - [Wavsteg](https://github.com/samolds/wavsteg) - is a steganography program that hides data in various kinds of image and audio files
 - [Zsteg](https://github.com/zed-0xff/zsteg) - A steganographic coder for WAV files
 
