@@ -1,0 +1,29 @@
+rom PIL import Image
+import exifread
+
+# Function to extract EXIF data from an image file
+def extract_exif_data(image_path):
+    with open(image_path, 'rb') as f:
+        # Read EXIF data from the image file
+        tags = exifread.process_file(f)
+
+        # Extract date, model, and GPS info from the EXIF data
+        date_time = tags.get('Image DateTime', 'Not Available')
+        model = tags.get('Image Model', 'Not Available')
+        gps_lat = tags.get('GPS GPSLatitude', 'Not Available')
+        gps_lon = tags.get('GPS GPSLongitude', 'Not Available')
+
+        return {
+            "Date/Time": date_time,
+            "Device Model": model,
+            "GPS Latitude": gps_lat,
+            "GPS Longitude": gps_lon
+        }
+
+# Example usage
+image_path = 'example_image.jpg'  # Replace with your image file path
+metadata = extract_exif_data(image_path)
+
+print("Metadata extracted from the image:")
+for key, value in metadata.items():
+    print(f"{key}: {value}")
