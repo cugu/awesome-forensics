@@ -275,7 +275,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Web
 
 - [ForensicsFocus](https://www.forensicfocus.com/)
-- [Insecstitute Resources](https://www.infosecinstitute.com/resources/)
 - [SANS Digital Forensics](https://www.sans.org/digital-forensics-incident-response/)
 
 ### Blogs
