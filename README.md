@@ -169,6 +169,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [MFTExtractor](https://github.com/aarsakian/MFTExtractor) - MFT-Parser
 - [MFTMactime](https://github.com/kero99/mftmactime) - MFT and USN parser that allows direct extraction in filesystem timeline format (mactime), dump all resident files in the MFT in their original folder structure and run yara rules over them all.
 - [NTFS journal parser](http://strozfriedberg.github.io/ntfs-linker/)
+- [NTFSTool](https://github.com/thewhiteninja/ntfstool) - Complete NTFS forensics tool
 - [NTFS USN Journal parser](https://github.com/PoorBillionaire/USN-Journal-Parser)
 - [RecuperaBit](https://github.com/Lazza/RecuperaBit) - Reconstruct and recover NTFS data
 - [python-ntfs](https://github.com/williballenthin/python-ntfs) - NTFS analysis
