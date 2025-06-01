@@ -166,7 +166,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [MFT-Parsers](http://az4n6.blogspot.com/2015/09/whos-your-master-mft-parsers-reviewed.html) - Comparison of MFT-Parsers
 - [MFTEcmd](https://binaryforay.blogspot.com/2018/06/introducing-mftecmd.html) - MFT Parser by Eric Zimmerman
-- [MFTExtractor](https://github.com/aarsakian/MFTExtractor) - MFT-Parser
+- [MFTExtractor](ttps://github.com/aarsakian/FileSystemForensics) - MFT-Parser
 - [MFTMactime](https://github.com/kero99/mftmactime) - MFT and USN parser that allows direct extraction in filesystem timeline format (mactime), dump all resident files in the MFT in their original folder structure and run yara rules over them all.
 - [NTFS journal parser](http://strozfriedberg.github.io/ntfs-linker/)
 - [NTFSTool](https://github.com/thewhiteninja/ntfstool) - Complete NTFS forensics tool
@@ -266,7 +266,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [DefCon CTFs](https://archive.ooo) - archive of DEF CON CTF challenges.
 - [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics)
 - [MagnetForensics CTF Challenge](https://www.magnetforensics.com/blog/magnet-weekly-ctf-challenge/)
-- [MalwareTech Challenges](https://www.malwaretech.com/challenges)
+- [MalwareTech Labs](https://malwaretech.com/labs)
 - [MemLabs](https://github.com/stuxnet999/MemLabs)
 - [NW3C Chanllenges](https://nw3.ctfd.io)
 - [Precision Widgets of North Dakota Intrusion](https://betweentwodfirns.blogspot.com/2017/11/dfir-ctf-precision-widgets-of-north.html)
@@ -292,7 +292,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 *more at [Recommended Readings](http://dfir.org/?q=node/8) by Andrew Case*
 
 - [Network Forensics: Tracking Hackers through Cyberspace](https://www.pearson.com/en-us/subject-catalog/p/Davidoff-Network-Forensics-Tracking-Hackers-through-Cyberspace/P200000009228) - Learn to recognize hackers’ tracks and uncover network-based evidence
-- [The Art of Memory Forensics](https://www.memoryanalysis.net/amf) - Detecting Malware and Threats in Windows, Linux, and Mac Memory
+- [The Art of Memory Forensics](https://memoryanalysis.net/amf) - Detecting Malware and Threats in Windows, Linux, and Mac Memory
 - [The Practice of Network Security Monitoring](https://nostarch.com/nsm) - Understanding Incident Detection and Response
 
 ### File System Corpora
