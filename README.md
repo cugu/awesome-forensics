@@ -266,7 +266,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [DefCon CTFs](https://archive.ooo) - archive of DEF CON CTF challenges.
 - [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics)
 - [MagnetForensics CTF Challenge](https://www.magnetforensics.com/blog/magnet-weekly-ctf-challenge/)
-- [MalwareTech Labs](https://malwaretech.com/labs)
+- [MalwareTech Labs](https://malwaretech.com/labs/)
 - [MemLabs](https://github.com/stuxnet999/MemLabs)
 - [NW3C Chanllenges](https://nw3.ctfd.io)
 - [Precision Widgets of North Dakota Intrusion](https://betweentwodfirns.blogspot.com/2017/11/dfir-ctf-precision-widgets-of-north.html)
@@ -292,7 +292,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 *more at [Recommended Readings](http://dfir.org/?q=node/8) by Andrew Case*
 
 - [Network Forensics: Tracking Hackers through Cyberspace](https://www.pearson.com/en-us/subject-catalog/p/Davidoff-Network-Forensics-Tracking-Hackers-through-Cyberspace/P200000009228) - Learn to recognize hackers’ tracks and uncover network-based evidence
-- [The Art of Memory Forensics](https://memoryanalysis.net/amf) - Detecting Malware and Threats in Windows, Linux, and Mac Memory
+- [The Art of Memory Forensics](https://memoryanalysis.net/amf/) - Detecting Malware and Threats in Windows, Linux, and Mac Memory
 - [The Practice of Network Security Monitoring](https://nostarch.com/nsm) - Understanding Incident Detection and Response
 
 ### File System Corpora
