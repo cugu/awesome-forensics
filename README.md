@@ -240,6 +240,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Picture Analysis
 
 - [Ghiro](https://github.com/Ghirensics/ghiro) - A fully automated tool designed to run forensics analysis over a massive amount of images
+- [Media Insight](https://www.videomap.it/mediainsight/) - Fast visual triage of image/video folders: EXIF/GPS parsing, face detection, FAISS-based similarity search, NSFW/Restricted flags, known-hash matching, with results persisted to a local SQLite database.
 - [sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital photographic image forensic toolset
 
 ### Metadata Forensics
