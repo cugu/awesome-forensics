@@ -278,12 +278,12 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Web
 
 - [ForensicsFocus](https://www.forensicfocus.com/)
-- [SANS Digital Forensics](https://www.sans.org/digital-forensics-incident-response/)
+- [SANS Digital Forensics](https://www.sans.org/cybersecurity-focus-areas/digital-forensics-incident-response)
 
 ### Blogs
 
 - [Netresec](https://www.netresec.com/index.ashx?page=Blog)
-- [SANS Forensics Blog](https://www.sans.org/blog/?focus-area=digital-forensics)
+- [SANS Forensics Blog](https://www.sans.org/blog?focus-area=digital-forensics)
 - [SecurityAffairs](https://securityaffairs.com/) - blog by Pierluigi Paganini
 - [This Week In 4n6](https://thisweekin4n6.com/) - Weekly updates for forensics
 - [Zena Forensics](https://blog.digital-forensics.it/)
@@ -308,7 +308,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [/r/computerforensics/](https://www.reddit.com/r/computerforensics/) - Subreddit for computer forensics
 - [CybersecurityGuide – Digital Forensics Careers](https://cybersecurityguide.org/careers/digital-forensics/) - Guide on skills, certs, and career paths in cyber forensics.
 - [ForensicPosters](https://github.com/Invoke-IR/ForensicPosters) - Posters of file system structures
-- [SANS Posters](https://www.sans.org/posters/) - Free posters provided by SANS
+- [SANS Posters](https://www.sans.org/posters) - Free posters provided by SANS
 
 ### Labs
 
