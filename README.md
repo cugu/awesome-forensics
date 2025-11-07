@@ -190,6 +190,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [Andriller](https://github.com/den4uk/andriller) - A software utility with a collection of forensic tools for smartphones
 - [ALEAPP](https://github.com/abrignoni/ALEAPP) - An Android Logs Events and Protobuf Parser
 - [ArtEx](https://www.doubleblak.com/index.php) - Artifact Examiner for iOS Full File System extractions
+- [DB Browser for SQLite](https://sqlitebrowser.org/) - Lightweight GUI to inspect and query the SQLite databases that store key iOS/Android artifacts (e.g., sms.db, CallHistory.storedata, Safari/History.db, WhatsApp)
 - [iLEAPP](https://github.com/abrignoni/iLEAPP) - An iOS Logs, Events, And Plists Parser
 - [iOS Frequent Locations Dumper](https://github.com/mac4n6/iOS-Frequent-Locations-Dumper) - Dump the contents of the StateModel#.archive files located in /private/var/mobile/Library/Caches/com.apple.routined/
 - [MEAT](https://github.com/jfarley248/MEAT) - Perform different kinds of acquisitions on iOS devices
