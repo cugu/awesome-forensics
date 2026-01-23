@@ -55,6 +55,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [bitscout](https://github.com/vitaly-kamluk/bitscout) - LiveCD/LiveUSB for remote forensic acquisition and analysis
 - [Remnux](https://remnux.org/) - Distro for reverse-engineering and analyzing malicious software
+- [NullSec Linux Forensics Edition](https://github.com/bad-antics/nullsec-linux) - Debian-based forensics distribution with 135+ tools including specialized forensics, memory analysis, and timeline tools
 - [SANS Investigative Forensics Toolkit (sift)](https://github.com/teamdfir/sift) - Linux distribution for forensic analysis
 - [Tsurugi Linux](https://tsurugi-linux.org/) - Linux distribution for forensic analysis
 - [WinFE](https://www.winfe.net/home) - Windows Forensics enviroment
