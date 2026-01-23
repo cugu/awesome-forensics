@@ -145,6 +145,8 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [volatility](https://github.com/volatilityfoundation/volatility) - The memory forensic framework
 - [VolUtility](https://github.com/kevthehermit/VolUtility) - Web App for Volatility framework
 
+- [NullSec NimHunter](https://github.com/bad-antics/nullsec-nimhunter) - Memory forensics scanner with malware signature detection and MITRE ATT&CK mapping
+- [NullSec MemGuard](https://github.com/bad-antics/nullsec-memguard) - Memory analysis and protection tool for forensic investigations
 ### Network Forensics
 
 - [Kismet](https://github.com/kismetwireless/kismet) - A passive wireless sniffer
