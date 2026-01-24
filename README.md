@@ -144,6 +144,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [Rekall](https://github.com/google/rekall) - Memory Forensic Framework
 - [volatility](https://github.com/volatilityfoundation/volatility) - The memory forensic framework
 - [VolUtility](https://github.com/kevthehermit/VolUtility) - Web App for Volatility framework
+- [nullsec-memguard](https://github.com/bad-antics/nullsec-memguard) - Memory protection monitor and forensics tool written in Zig
 
 ### Network Forensics
 
@@ -152,6 +153,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [RustNet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI providing real-time visibility into network connections
 - [Squey](https://squey.org) - Logs/PCAP visualization software designed to detect anomalies and weak signals in large amounts of data.
 - :star: [WireShark](https://www.wireshark.org/) - A network protocol analyzer
+- [nullsec-netseer](https://github.com/bad-antics/nullsec-netseer) - Network traffic analyzer written in Haskell with protocol dissection
 
 ### Windows Artifacts
 
