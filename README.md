@@ -152,6 +152,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [RustNet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI providing real-time visibility into network connections
 - [Squey](https://squey.org) - Logs/PCAP visualization software designed to detect anomalies and weak signals in large amounts of data.
 - :star: [WireShark](https://www.wireshark.org/) - A network protocol analyzer
+- [NullSec Sniffer](https://github.com/bad-antics/nullsec-sniffer) - Network packet capture and analysis tool with protocol decoding and forensic export capabilities
 
 ### Windows Artifacts
 
