@@ -185,7 +185,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [MacLocationsScraper](https://github.com/mac4n6/Mac-Locations-Scraper) - Dump the contents of the location database files on iOS and macOS
 - [macMRUParser](https://github.com/mac4n6/macMRU-Parser) - Python script to parse the Most Recently Used (MRU) plist files on macOS into a more human friendly format
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor)
-- [OSX Collect](https://github.com/Yelp/osxcollector)
+- [OSX Collect](https://github.com/YelpArchive/osxcollector)
 
 ### Mobile Forensics
 
