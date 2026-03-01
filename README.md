@@ -61,7 +61,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Frameworks
 
-- [AIFT](https://github.com/FlipForensics/AIFT) - AIFT (AI Forensic Triage) is a Python app that runs locally in your browser, uses [Dissect](https://github.com/fox-it/dissect) to parse evidence, and generates AI-assisted forensic reports with local or cloud models.
+- [AIFT](https://github.com/FlipForensics/AIFT) - AIFT (AI Forensic Triage) parses evidence using dissect and generates AI-assisted forensic reports.
 - :star:[Autopsy](http://www.sleuthkit.org/autopsy/) - SleuthKit GUI
 - [dexter](https://github.com/coinbase/dexter) - Dexter is a forensics acquisition framework designed to be extensible and secure
 - [dff](https://github.com/arxsys/dff) - Forensic framework
