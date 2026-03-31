@@ -251,7 +251,9 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [ExifTool](https://exiftool.org/) by Phil Harvey
 - [EXIF Editor](https://exifeditor.io/) In-browser, privacy first EXIF Viewer/Editor/Analysis tool (Zero Sign Up). Home to the The EXIF Guide, and The EXIF Quiz.
+- [Fluranto Remove Image Metadata](https://www.fluranto.com/en/image/remove-image-metadata) - Browser-based EXIF metadata remover. No signup required.
 - [FOCA](https://github.com/ElevenPaths/FOCA) - FOCA is a tool used mainly to find metadata and hidden information in the documents
+  
 
 ### Steganography
 
