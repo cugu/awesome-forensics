@@ -38,6 +38,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
     - [Labs](#labs)
   - [Related Awesome Lists](#related-awesome-lists)
   - [Contributing](#contributing)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including security forensics, automated analysis, and digital investigation agents. MIT licensed.
 
 ---
 
