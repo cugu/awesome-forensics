@@ -64,6 +64,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [AIFT](https://github.com/FlipForensics/AIFT) - AIFT (AI Forensic Triage) parses evidence using dissect and generates AI-assisted forensic reports.
 - :star:[Autopsy](http://www.sleuthkit.org/autopsy/) - SleuthKit GUI
 - [dexter](https://github.com/coinbase/dexter) - Dexter is a forensics acquisition framework designed to be extensible and secure
+- [CORTEX](https://github.com/fatcrapinmybutt/cortex-osint) - Offline desktop intelligence platform that scans local files and builds interactive D3.js knowledge graphs with entity extraction, categorization, and evidence linking
 - [dff](https://github.com/arxsys/dff) - Forensic framework
 - [Dissect](https://github.com/fox-it/dissect) - Dissect is a digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats, developed by Fox-IT (part of NCC Group).
 - [hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser) - A tool to analyse files from a forensic acquisition to find known/unknown hashes from [hashlookup](https://www.circl.lu/services/hashlookup/) API or using a local Bloom filter.
