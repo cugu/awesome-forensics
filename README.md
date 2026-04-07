@@ -213,6 +213,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
 - [IE10Analyzer](https://github.com/moaistory/IE10Analyzer) - This tool can parse normal records and recover deleted records in WebCacheV01.dat.
 - [unfurl](https://github.com/obsidianforensics/unfurl) - Extract and visualize data from URLs
+- [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
 - [WinSearchDBAnalyzer](https://github.com/moaistory/WinSearchDBAnalyzer) - This tool can parse normal records and recover deleted records in Windows.edb.
 
 ### Timeline Analysis
