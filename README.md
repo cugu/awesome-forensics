@@ -66,6 +66,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [dexter](https://github.com/coinbase/dexter) - Dexter is a forensics acquisition framework designed to be extensible and secure
 - [dff](https://github.com/arxsys/dff) - Forensic framework
 - [Dissect](https://github.com/fox-it/dissect) - Dissect is a digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats, developed by Fox-IT (part of NCC Group).
+- [DFIR Platform](https://platform.dfir-lab.ch) - API-first DFIR toolkit for phishing email forensics, attack surface scanning, and IOC enrichment with AI-powered triage.
 - [hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser) - A tool to analyse files from a forensic acquisition to find known/unknown hashes from [hashlookup](https://www.circl.lu/services/hashlookup/) API or using a local Bloom filter.
 - [IntelMQ](https://github.com/certtools/intelmq) - IntelMQ collects and processes security feeds
 - [Kuiper](https://github.com/DFIRKuiper/Kuiper) - Digital Investigation Platform
