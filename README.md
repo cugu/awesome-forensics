@@ -258,6 +258,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [mat2](https://github.com/jvoisin/mat2) - Metadata removal tool, supporting a wide range of commonly used file formats
 - [oletools](https://github.com/decalage2/oletools) - Tools to analyze Microsoft OLE2 files and MS Office documents for malware analysis and forensics
 - [pdf-parser](https://blog.didierstevens.com/programs/pdf-tools/) - Parse and analyze PDF files to extract metadata and identify malicious content
+- [questio](https://github.com/abcreativ/questio) - Forensic PDF auditor CLI that detects edited or tampered PDFs via font session tracking, revision history mapping, and producer metadata analysis. Local-first, no uploads.
 
 ### Steganography
 
