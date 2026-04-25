@@ -261,9 +261,9 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [questio](https://github.com/abcreativ/questio) - Forensic PDF auditor CLI that detects edited or tampered PDFs via font session tracking, revision history mapping, and producer metadata analysis. Local-first, no uploads.
 
 ### Steganography
-
 - [Sonicvisualizer](https://www.sonicvisualiser.org)
 - [Steghide](https://github.com/StegHigh/steghide) - is a steganography program that hides data in various kinds of image and audio files
+- [StegoForge](https://github.com/Nour833/StegoForge) - Zero-dependency CLI/TUI engine for hiding and extracting encrypted payloads using offline AI forensics.
 - [Wavsteg](https://github.com/samolds/wavsteg) - is a steganography program that hides data in various kinds of image and audio files
 - [Zsteg](https://github.com/zed-0xff/zsteg) - A steganographic coder for WAV files
 
