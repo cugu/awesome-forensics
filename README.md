@@ -22,6 +22,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
     - [Internet Artifacts](#internet-artifacts)
     - [Timeline Analysis](#timeline-analysis)
     - [Disk image handling](#disk-image-handling)
+- [Autopsy](https://github.com/sleuthkit/autopsy) - The premier open-source digital forensics platform.
     - [Decryption](#decryption)
     - [Management](#management)
     - [Picture Analysis](#picture-analysis)
