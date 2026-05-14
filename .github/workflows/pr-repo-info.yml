@@ -1,0 +1,20 @@
+name: PR Repo Info
+
+on:
+  pull_request_target:
+    types: [opened, edited, synchronize]
+    paths:
+      - 'README.md'
+
+permissions:
+  pull-requests: write
+
+jobs:
+  repo-info:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Post repository info
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: bash .github/scripts/repo-info.sh ${{ github.event.pull_request.number }}
