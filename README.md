@@ -57,12 +57,12 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [Remnux](https://remnux.org/) - Distro for reverse-engineering and analyzing malicious software
 - [SANS Investigative Forensics Toolkit (sift)](https://github.com/teamdfir/sift) - Linux distribution for forensic analysis
 - [Tsurugi Linux](https://tsurugi-linux.org/) - Linux distribution for forensic analysis
-- [WinFE](https://www.winfe.net/home) - Windows Forensics enviroment
+- [WinFE](https://www.winfe.net/home) - Windows Forensics environment
 
 ### Frameworks
 
 - [AIFT](https://github.com/FlipForensics/AIFT) - AIFT (AI Forensic Triage) parses evidence using dissect and generates AI-assisted forensic reports.
-- :star:[Autopsy](http://www.sleuthkit.org/autopsy/) - SleuthKit GUI
+- :star: [Autopsy](http://www.sleuthkit.org/autopsy/) - SleuthKit GUI
 - [dexter](https://github.com/coinbase/dexter) - Dexter is a forensics acquisition framework designed to be extensible and secure
 - [dff](https://github.com/arxsys/dff) - Forensic framework
 - [Dissect](https://github.com/fox-it/dissect) - Dissect is a digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats, developed by Fox-IT (part of NCC Group).
@@ -125,8 +125,8 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [dc3dd](https://sourceforge.net/projects/dc3dd/) - Improved version of dd
 - [dcfldd](https://sourceforge.net/projects/dcfldd/) - Different improved version of dd (this version has some bugs!, another version is on github [adulau/dcfldd](https://github.com/adulau/dcfldd))
-- [FTK Imager](https://www.exterro.com/digital-forensics-software/ftk-imager) - Free imageing tool for windows
-- :star: [Guymager](https://sourceforge.net/projects/guymager/) - Open source version for disk imageing on linux systems
+- [FTK Imager](https://www.exterro.com/digital-forensics-software/ftk-imager) - Free imaging tool for windows
+- :star: [Guymager](https://sourceforge.net/projects/guymager/) - Open source version for disk imaging on linux systems
 - [acquirepi](https://github.com/plonxyz/acquirepi) - Successor to 4n6pi, scalable forensic disk imager, designed to run on a Raspberry Pi, powered by libewf
 
 ### Carving
@@ -160,7 +160,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [Beagle](https://github.com/yampelo/beagle) -  Transform data sources and logs into graphs
 - [Blauhaunt](https://github.com/cgosec/Blauhaunt) - A tool collection for filtering and visualizing logon events
 - [FRED](https://www.pinguin.lu/fred) - Cross-platform microsoft registry hive editor
-- [Hayabusa](https://github.com/Yamato-Security/hayabusa) - A a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
+- [Hayabusa](https://github.com/Yamato-Security/hayabusa) - A sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [LastActivityView](https://www.nirsoft.net/utils/computer_activity_view.html) - LastActivityView by Nirsoftis a tool for Windows operating system that collects information from various sources on a running system, and displays a log of actions made by the user and events occurred on this computer. 
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 - [PyShadow](https://github.com/alicangnll/pyshadow) - A library for Windows to read shadow copies, delete shadow copies, create symbolic links to shadow copies, and create shadow copies
@@ -172,7 +172,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [MFT-Parsers](http://az4n6.blogspot.com/2015/09/whos-your-master-mft-parsers-reviewed.html) - Comparison of MFT-Parsers
 - [MFTEcmd](https://binaryforay.blogspot.com/2018/06/introducing-mftecmd.html) - MFT Parser by Eric Zimmerman
-- [MFTExtractor](ttps://github.com/aarsakian/FileSystemForensics) - MFT-Parser
+- [MFTExtractor](https://github.com/aarsakian/FileSystemForensics) - MFT-Parser
 - [MFTMactime](https://github.com/kero99/mftmactime) - MFT and USN parser that allows direct extraction in filesystem timeline format (mactime), dump all resident files in the MFT in their original folder structure and run yara rules over them all.
 - [NTFS journal parser](http://strozfriedberg.github.io/ntfs-linker/)
 - [NTFSTool](https://github.com/thewhiteninja/ntfstool) - Complete NTFS forensics tool
@@ -200,11 +200,10 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - An automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - [OpenBackupExtractor](https://github.com/vgmoose/OpenBackupExtractor) - An app for extracting data from iPhone and iPad backups.
 
-
 ### Docker Forensics
 
 - [dof (Docker Forensics Toolkit)](https://github.com/docker-forensics-toolkit/toolkit) - Extracts and interprets forensic artifacts from disk images of Docker Host systems
-- [Docker Explorer](https://github.com/google/docker-explorer) Extracts and interprets forensic artifacts from disk images of Docker Host systems
+- [Docker Explorer](https://github.com/google/docker-explorer) - Extracts and interprets forensic artifacts from disk images of Docker Host systems
 
 ### Internet Artifacts
 
@@ -251,7 +250,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Metadata Forensics
 
-- [EXIF Editor](https://exifeditor.io/) In-browser, privacy first EXIF Viewer/Editor/Analysis tool (Zero Sign Up). Home to the The EXIF Guide, and The EXIF Quiz.
+- [EXIF Editor](https://exifeditor.io/) - In-browser, privacy first EXIF Viewer/Editor/Analysis tool (Zero Sign Up). Home to the The EXIF Guide, and The EXIF Quiz.
 - [ExifTool](https://exiftool.org/) by Phil Harvey
 - [FOCA](https://github.com/ElevenPaths/FOCA) - FOCA is a tool used mainly to find metadata and hidden information in the documents
 - [Metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester for extracting metadata from public documents
@@ -264,8 +263,8 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [Sonicvisualizer](https://www.sonicvisualiser.org)
 - [Steghide](https://github.com/StegHigh/steghide) - is a steganography program that hides data in various kinds of image and audio files
-- [Wavsteg](https://github.com/samolds/wavsteg) - is a steganography program that hides data in various kinds of image and audio files
-- [Zsteg](https://github.com/zed-0xff/zsteg) - A steganographic coder for WAV files
+- [Wavsteg](https://github.com/samolds/wavsteg) - A steganographic coder for WAV files
+- [Zsteg](https://github.com/zed-0xff/zsteg) - Detect steganography hidden in PNG and BMP files
 
 ## Learn Forensics
 
