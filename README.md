@@ -50,6 +50,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [Forensics tools on Wikipedia](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
 - [Eric Zimmerman's Tools](https://ericzimmerman.github.io/#!index.md)
+  
 
 ### Distributions
 
@@ -251,6 +252,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Metadata Forensics
 
+- [InspectFiles](https://inspectfiles.com/) - Browser-based file inspection toolbox. Strips EXIF/metadata, computes hashes (MD5/SHA-256/etc.), identifies real file types by magic bytes, finds duplicates and sanitizes filenames. All processing is client-side; no uploads.
 - [EXIF Editor](https://exifeditor.io/) In-browser, privacy first EXIF Viewer/Editor/Analysis tool (Zero Sign Up). Home to the The EXIF Guide, and The EXIF Quiz.
 - [ExifTool](https://exiftool.org/) by Phil Harvey
 - [FOCA](https://github.com/ElevenPaths/FOCA) - FOCA is a tool used mainly to find metadata and hidden information in the documents
