@@ -110,6 +110,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [FIT](https://github.com/fit-project/fit) - Forensic acquisition of web pages, emails, social media, etc.
 - [ForensicMiner](https://github.com/securityjoes/ForensicMiner) - A PowerShell-based DFIR automation tool, for artifact and evidence collection on Windows machines.
 - [Fuji](https://github.com/Lazza/Fuji/) - MacOS forensic acquisition made simple. It creates full file system copies or targeted collection of Mac computers.
+- [Hypoxia](https://github.com/xinitd/hypoxia) - Cross-platform CLI tool for targeted file collection with SHA-256 manifest, chain-of-custody log, and checkpoint/resume support.
 - [LiME](https://github.com/jtsylve/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD
 - [Magnet RAM Capture / DumpIt](https://www.magnetforensics.com/resources/magnet-dumpit-for-windows/) - A free imaging tool designed to capture the physical memory
 - [SPECTR3](https://github.com/alpine-sec/SPECTR3) - Acquire, triage and investigate remote evidence via portable iSCSI readonly access
