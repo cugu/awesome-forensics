@@ -143,6 +143,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - :package: [Rekall](https://github.com/google/rekall) - Memory Forensic Framework
 - :package: [volatility](https://github.com/volatilityfoundation/volatility) - The memory forensic framework
 - [VolUtility](https://github.com/kevthehermit/VolUtility) - Web App for Volatility framework
+- [Ram Parser](https://www.ramparser.com/en) - Volatility-style memory forensics, entirely in your browser. 
 
 ### Network Forensics
 
@@ -174,6 +175,12 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - :zzz: [NTFS USN Journal parser](https://github.com/PoorBillionaire/USN-Journal-Parser)
 - [RecuperaBit](https://github.com/Lazza/RecuperaBit) - Reconstruct and recover NTFS data
 - :zzz: [python-ntfs](https://github.com/williballenthin/python-ntfs) - NTFS analysis
+- [MFT Parser](https://www.mftparser.com/en) - NTFS $MFT parser in the browser
+- [USN Journal Parser](https://www.usnparser.com/en) - Windows NTFS USN Journal ($UsnJrnl:$J) files parser in the browser
+- [LNK Parser](https://www.lnkparser.com/en) - Windows .lnk shortcut parser in the browser
+- [Jump List Parser](https://www.jumplistparser.com/en) - AutomaticDestinations and CustomDestinations jump list artifacts parser in the browser
+- [Recycle Bin $I Parser](https://www.recyclebinparser.com/en) - Recycle Bin $I Parser in the browser
+- [Amcache Parser](https://www.amcacheparser.com) - Amcache Parser in the browser
 
 ### OS X Forensics
 
@@ -248,6 +255,10 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [mat2](https://github.com/jvoisin/mat2) - Metadata removal tool, supporting a wide range of commonly used file formats
 - [oletools](https://github.com/decalage2/oletools) - Tools to analyze Microsoft OLE2 files and MS Office documents for malware analysis and forensics
 - [pdf-parser](https://blog.didierstevens.com/programs/pdf-tools/) - Parse and analyze PDF files to extract metadata and identify malicious content
+
+### Browser Forensics
+- [hindsight](https://github.com/RyanDFIR/hindsight) - Browser forensics tool for Google Chrome (and other Chromium-based browsers)
+- [Browser Forensics](https://www.browserforensics.app/en) - Browser (Chrome,Firefox,Safari) artifact parser in the browser
 
 ### Steganography
 
