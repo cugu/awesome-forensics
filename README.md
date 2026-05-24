@@ -176,7 +176,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [RecuperaBit](https://github.com/Lazza/RecuperaBit) - Reconstruct and recover NTFS data
 - :zzz: [python-ntfs](https://github.com/williballenthin/python-ntfs) - NTFS analysis
 - [MFT Parser](https://www.mftparser.com/en) - NTFS $MFT parser in the browser
-- [USN Journal Parser](https://www.usnparser.com/en) - Windows NTFS USN Journal ($UsnJrnl:$J) files parser in the browser
+- [USN Journal Parser (browser)](https://www.usnparser.com/en) - Windows NTFS USN Journal ($UsnJrnl:$J) files parser in the browser
 - [LNK Parser](https://www.lnkparser.com/en) - Windows .lnk shortcut parser in the browser
 - [Jump List Parser](https://www.jumplistparser.com/en) - AutomaticDestinations and CustomDestinations jump list artifacts parser in the browser
 - [Recycle Bin $I Parser](https://www.recyclebinparser.com/en) - Recycle Bin $I Parser in the browser
