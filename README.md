@@ -258,7 +258,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Browser Forensics
 - [hindsight](https://github.com/RyanDFIR/hindsight) - Browser forensics tool for Google Chrome (and other Chromium-based browsers)
-- [Browser Forensics](https://www.browserforensics.app/en) - Browser (Chrome,Firefox,Safari) artifact parser in the browser
+- [Browser Forensics](https://www.browserforensics.app/en) - Browser (Chrome, Firefox, Safari) artifact parser in the browser
 
 ### Steganography
 
