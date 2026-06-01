@@ -143,7 +143,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - :package: [Rekall](https://github.com/google/rekall) - Memory Forensic Framework
 - :package: [volatility](https://github.com/volatilityfoundation/volatility) - The memory forensic framework
 - [VolUtility](https://github.com/kevthehermit/VolUtility) - Web App for Volatility framework
-- [Ram Parser](https://www.ramparser.com/en) - Volatility-style memory forensics, entirely in your browser. 
+- [Ram Parser](https://www.ramparser.com/en) - Volatility-style memory forensics, entirely in your browser.
 
 ### Network Forensics
 
