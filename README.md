@@ -282,6 +282,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Blogs
 
+- [defend.network](https://defend.network) - Daily cyber threat briefings and weekly vulnerability reports, every CVE verified against NVD and CISA KEV
 - [Netresec](https://www.netresec.com/index.ashx?page=Blog)
 - [SANS Forensics Blog](https://www.sans.org/blog?focus-area=digital-forensics)
 - [SecurityAffairs](https://securityaffairs.com/) - blog by Pierluigi Paganini
