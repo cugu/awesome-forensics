@@ -189,6 +189,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - :zzz: [Andriller](https://github.com/den4uk/andriller) - A software utility with a collection of forensic tools for smartphones
 - [ALEAPP](https://github.com/abrignoni/ALEAPP) - An Android Logs Events and Protobuf Parser
 - [ArtEx](https://www.doubleblak.com/index.php) - Artifact Examiner for iOS Full File System extractions
+- [crush-forensics](https://github.com/kalink0/crush-forensics) - Open-source desktop workbench for digital forensic analysis. Inspect ZIP/TAR acquisitions and parse and view ABX, SQLite, SEGB, (B)PLIST, REALM, Protobuf, Logs,hex, JSON, XML, and more — all in one GUI.
 - [iLEAPP](https://github.com/abrignoni/iLEAPP) - An iOS Logs, Events, And Plists Parser
 - :zzz: [iOS Frequent Locations Dumper](https://github.com/mac4n6/iOS-Frequent-Locations-Dumper) - Dump the contents of the StateModel#.archive files located in /private/var/mobile/Library/Caches/com.apple.routined/
 - :zzz: [MEAT](https://github.com/jfarley248/MEAT) - Perform different kinds of acquisitions on iOS devices
