@@ -52,6 +52,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [Forensics tools on Wikipedia](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
 - [Eric Zimmerman's Tools](https://ericzimmerman.github.io/#!index.md)
+- [forensics.media](https://forensics.media/tools/) - A collection of free, in-browser image and audio forensics tools: EXIF/metadata, Error Level Analysis, clone/copy-move, double-JPEG, spectrogram, ENF and more. Client-side, nothing uploaded.
 
 ### Distributions
 
