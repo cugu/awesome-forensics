@@ -118,6 +118,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [unix_collector](https://github.com/op7ic/unix_collector) - A live forensic collection script for UNIX-like systems as a single script.
 - [Velociraptor](https://github.com/Velocidex/velociraptor) - Velociraptor is a tool for collecting host based state information using Velocidex Query Language (VQL) queries
 - [WinTriage](https://www.securizame.com/wintriage-the-triage-tool-for-windows-dfirers/) - Wintriage is a live response tool that extracts Windows artifacts. It must be executed with local or domain administrator privileges and recommended to be done from an external drive.
+- [AAD-50](https://github.com/yonasabeselom/aad50) - NVMe sanitize verification tool for Linux. Confirms cryptographic erase completion on NVMe drives per NVMe spec. Merged into linux-nvme/nvme-cli (PR #3438).
 
 ### Imaging
 
@@ -163,6 +164,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - :zzz: [python-evt](https://github.com/williballenthin/python-evt) - Pure Python parser for classic Windows Event Log files (.evt)
 - [RegRipper3.0](https://github.com/keydet89/RegRipper3.0) - RegRipper is an open source Perl tool for parsing the Registry and presenting it for analysis
 - [RegRippy](https://github.com/airbus-cert/regrippy) - A framework for reading and extracting useful forensics data from Windows registry hives
+- [REDACT](https://github.com/yonasabeselom/redact) - Windows forensic artifact eraser. Removes 250+ traces including AmCache, BAM, ShimCache, NTFS $UsnJrnl, Windows Recall, Shell Bags and SRUM that standard tools miss. Supports 1–35 pass wipe modes.
 
 #### NTFS/MFT Processing
 
