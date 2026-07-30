@@ -50,6 +50,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ## Tools
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 - [Forensics tools on Wikipedia](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
 - [Eric Zimmerman's Tools](https://ericzimmerman.github.io/#!index.md)
 
