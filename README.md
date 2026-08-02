@@ -237,6 +237,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Picture Analysis
 
 - :zzz: [Ghiro](https://github.com/Ghirensics/ghiro) - A fully automated tool designed to run forensics analysis over a massive amount of images
+- [Jura Trace](https://juralabs.org/) - Open-source, local-first desktop app combining ELA, noise, copy-move, and JPEG ghost forensics with a trained AI/deepfake classifier and C2PA provenance signing.
 - [sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital photographic image forensic toolset
 
 ### Metadata Forensics
