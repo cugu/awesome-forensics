@@ -101,6 +101,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [Acquire](https://github.com/fox-it/acquire) - Acquire is a tool to quickly gather forensic artifacts from disk images or a live system into a lightweight container
 - [ALEX](https://github.com/prosch88/ALEX) - Extract files from ADB devices on Windows, Linux and MacOS. Mostly a wrapper for adbutils.
+- [Amele](https://github.com/noirlang/amele) - Cross-platform digital forensics tool for local and remote disk, RAM, and mobile evidence acquisition across Windows, Linux, Android, and iOS.
 - [artifactcollector](https://github.com/forensicanalysis/artifactcollector) - A customizable agent to collect forensic artifacts on any Windows, macOS or Linux system
 - [AVML](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux
 - [Belkasoft RAM Capturer](https://belkasoft.com/ram-capturer) - Volatile Memory Acquisition Tool
