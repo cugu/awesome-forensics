@@ -114,6 +114,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [LiME](https://github.com/jtsylve/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD
 - [Magnet RAM Capture / DumpIt](https://www.magnetforensics.com/resources/magnet-dumpit-for-windows/) - A free imaging tool designed to capture the physical memory
 - [SPECTR3](https://github.com/alpine-sec/SPECTR3) - Acquire, triage and investigate remote evidence via portable iSCSI readonly access
+- [TRACE](https://github.com/ionsec/trace) - Read-only collector for AI and LLM artifacts on Windows, macOS and Linux (local model runners, coding agents, browser AI), producing a SHA-256 chain of custody plus MITRE ATLAS and STIX 2.1 output.
 - [UFADE](https://github.com/prosch88/UFADE) - Extract files from iOS devices on Linux and MacOS. Mostly a wrapper for pymobiledevice3. Creates iTunes-style backups and advanced logical backups.
 - [unix_collector](https://github.com/op7ic/unix_collector) - A live forensic collection script for UNIX-like systems as a single script.
 - [Velociraptor](https://github.com/Velocidex/velociraptor) - Velociraptor is a tool for collecting host based state information using Velocidex Query Language (VQL) queries
