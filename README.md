@@ -132,6 +132,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [floss](https://github.com/mandiant/flare-floss) - Static analysis tool to automatically deobfuscate strings from malware binaries
 - :star: [photorec](https://www.cgsecurity.org/wiki/PhotoRec) - File carving tool
 - :zzz: [swap_digger](https://github.com/sevagas/swap_digger) - A bash script used to automate Linux swap analysis, automating swap extraction and searches for Linux user credentials, Web form credentials, Web form emails, etc.
+- [swapfile.io File Analyzer](https://swapfile.io/file-analyzer) - Browser-based file triage: strings, entropy, embedded-file carving, ELF/PE and LSB steganography, all client-side with no upload.
 
 ### Memory Forensics
 
