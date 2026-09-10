@@ -286,6 +286,8 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [SecurityAffairs](https://securityaffairs.com/) - blog by Pierluigi Paganini
 - [This Week In 4n6](https://thisweekin4n6.com/) - Weekly updates for forensics
 - [Zena Forensics](https://blog.digital-forensics.it/)
+- [Ransomware: What to Do in the First 24 Hours](https://traztech.ca/blog/ransomware-first-24-hours) - Step-by-step incident response guide for ransomware attacks
+- [Data Breach: What to Do in the First 72 Hours](https://traztech.ca/blog/what-to-do-after-a-data-breach) - Practical breach response guide including notification obligations
 
 ### Books
 
