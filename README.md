@@ -236,6 +236,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Picture Analysis
 
 - :zzz: [Ghiro](https://github.com/Ghirensics/ghiro) - A fully automated tool designed to run forensics analysis over a massive amount of images
+- [Sealed Rose](https://sealedrose.com/verify-video) - AI deepfake and synthetic media forensic analysis platform to detect generative video and image manipulation.
 - [sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital photographic image forensic toolset
 
 ### Metadata Forensics
