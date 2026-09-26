@@ -194,6 +194,8 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - :zzz: [MEAT](https://github.com/jfarley248/MEAT) - Perform different kinds of acquisitions on iOS devices
 - [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - An automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - :zzz: [OpenBackupExtractor](https://github.com/vgmoose/OpenBackupExtractor) - An app for extracting data from iPhone and iPad backups.
+- [iosy](https://opensyntaxx.com/) - A standalone CLI that decompiles iOS apps (.ipa files) into readable Swift projects.
+- [jadx](https://github.com/skylot/jadx) - Command line and GUI tools for producing Java source code from Android Dex and Apk files.
 
 ### Docker Forensics
 
