@@ -321,6 +321,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [Infosec](https://github.com/onlurking/awesome-infosec)
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [Pentesting](https://github.com/enaqx/awesome-pentest)
+- [Reverse Engineering & Malware Analysis](https://github.com/ZX41R/awesome-reverse-engineering-and-malware-analysis)
 - [Security](https://github.com/sbilly/awesome-security)
 - [Social Engineering](https://github.com/giuliacassara/awesome-social-engineering)
 - [YARA](https://github.com/pedramamini/awesome-yara)
