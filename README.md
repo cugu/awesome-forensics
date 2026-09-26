@@ -240,7 +240,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Metadata Forensics
 
-- [EXIF Editor](https://exifeditor.io/) - In-browser, privacy first EXIF Viewer/Editor/Analysis tool (Zero Sign Up). Home to the The EXIF Guide, and The EXIF Quiz.
 - [ExifTool](https://exiftool.org/) by Phil Harvey
 - :zzz: [FOCA](https://github.com/ElevenPaths/FOCA) - FOCA is a tool used mainly to find metadata and hidden information in the documents
 - :zzz: [Metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester for extracting metadata from public documents
