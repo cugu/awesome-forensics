@@ -251,6 +251,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [Sonicvisualizer](https://www.sonicvisualiser.org)
 - :zzz: [Steghide](https://github.com/StegHigh/steghide) - is a steganography program that hides data in various kinds of image and audio files
+- [STEGO·STUDIO](https://github.com/rickschaves/stegostudio) - Client-side image steganography and forensics tool for hiding, analyzing, and recovering hidden data, including support for several third-party steganography formats
 - [Zsteg](https://github.com/zed-0xff/zsteg) - Detect steganography hidden in PNG and BMP files
 
 ## Learn Forensics
