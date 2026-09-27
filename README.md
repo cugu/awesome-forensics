@@ -243,6 +243,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [ExifTool](https://exiftool.org/) by Phil Harvey
 - :zzz: [FOCA](https://github.com/ElevenPaths/FOCA) - FOCA is a tool used mainly to find metadata and hidden information in the documents
+- [MetaClean EXIF Viewer](https://metacleanai.com/exif-viewer/) - In-browser viewer for EXIF, GPS, XMP, IPTC, C2PA Content Credentials, AI generation prompts in PNGs and MP4/MOV metadata. Files are parsed locally and never uploaded.
 - :zzz: [Metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester for extracting metadata from public documents
 - [mat2](https://github.com/jvoisin/mat2) - Metadata removal tool, supporting a wide range of commonly used file formats
 - [oletools](https://github.com/decalage2/oletools) - Tools to analyze Microsoft OLE2 files and MS Office documents for malware analysis and forensics
