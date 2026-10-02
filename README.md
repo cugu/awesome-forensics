@@ -78,6 +78,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [turbinia](https://github.com/google/turbinia) - Turbinia is an open-source framework for deploying, managing, and running forensic workloads on cloud platforms
 - [IPED - Indexador e Processador de Evidências Digitais](https://github.com/sepinf-inc/IPED) - Brazilian Federal Police Tool for Forensic Investigations
 - [Wombat Forensics](https://github.com/pjrinaldi/wombatforensics) - Forensic GUI tool
+- [Atlas](https://github.com/AtlasFO/Atlas-Community) - AI-assisted DFIR agent that answers case questions with cited evidence from Volatility 3, Plaso, YARA and other open-source tools, with a web dashboard and full audit trail.  
 
 ### Live Forensics
 
