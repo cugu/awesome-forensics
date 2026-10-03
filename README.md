@@ -250,6 +250,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Steganography
 
+- [RedoSan Authenticity](https://github.com/Redo-San/RedoSan-Authenticity) - Open-source toolkit for embedding and detecting image, audio and document watermarks, with ELA and JPEG-marker analysis for tamper detection.
 - [Sonicvisualizer](https://www.sonicvisualiser.org)
 - :zzz: [Steghide](https://github.com/StegHigh/steghide) - is a steganography program that hides data in various kinds of image and audio files
 - [Zsteg](https://github.com/zed-0xff/zsteg) - Detect steganography hidden in PNG and BMP files
