@@ -221,6 +221,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [Disk Arbitrator](https://github.com/aburgh/Disk-Arbitrator) - A Mac OS X forensic utility designed to help the user ensure correct forensic procedures are followed during imaging of a disk device
 - :zzz: [imagemounter](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images
 - [libewf](https://github.com/libyal/libewf) - Libewf is a library and some tools to access the Expert Witness Compression Format (EWF, E01)
+- [Sector Sorcery](https://binarybacktrace.com/tools/sector_sorcery) - Browser-based disc image explorer for ISO, BIN/CUE, CHD, NRG, MDF, CSO and GameCube/Wii images; opens WIM, CAB, ZIP and InstallShield archives inside them, exports files and builds bootable ISOs. Nothing is uploaded.
 - [xmount](https://www.pinguin.lu/xmount) - Convert between different disk image formats
 
 ### Decryption
