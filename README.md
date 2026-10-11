@@ -241,6 +241,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Metadata Forensics
 
+- [EXIF Hound](https://github.com/minimallyexceptional/exif-hound) - Cross-platform desktop app that inspects image EXIF metadata locally, maps GPS-tagged photos, imports KML, and exports CSV/JSON.
 - [ExifTool](https://exiftool.org/) by Phil Harvey
 - :zzz: [FOCA](https://github.com/ElevenPaths/FOCA) - FOCA is a tool used mainly to find metadata and hidden information in the documents
 - :zzz: [Metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester for extracting metadata from public documents
