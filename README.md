@@ -310,6 +310,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Labs
 
 - [BlueTeam.Lab](https://github.com/op7ic/BlueTeam.Lab) - Blue Team detection lab created with Terraform and Ansible in Azure.
+- [Red Herrings](https://redherrings.app) - Generates a different digital forensics or incident response lab per student from one case, with evidence in real formats (disk, registry hives, EVTX, memory, PCAP, mobile, cloud) and a verified answer key.
 
 ## Related Awesome Lists
 
