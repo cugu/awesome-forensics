@@ -238,6 +238,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - :zzz: [Ghiro](https://github.com/Ghirensics/ghiro) - A fully automated tool designed to run forensics analysis over a massive amount of images
 - [sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital photographic image forensic toolset
+- [isGenAI](https://isgenai.com/) - Free web tool that reads C2PA Content Credentials, AI-generation labels and saved AI prompts embedded in images
 
 ### Metadata Forensics
 
