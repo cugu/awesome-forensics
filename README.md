@@ -190,6 +190,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [ALEAPP](https://github.com/abrignoni/ALEAPP) - An Android Logs Events and Protobuf Parser
 - [ArtEx](https://www.doubleblak.com/index.php) - Artifact Examiner for iOS Full File System extractions
 - [iLEAPP](https://github.com/abrignoni/iLEAPP) - An iOS Logs, Events, And Plists Parser
+- [iPhone Data Manager](https://iphonedatamanager.com) - macOS tool for read-only iOS backup acquisition, backup diffing, live system log/network capture, and SHA-256 hashed WhatsApp/SMS transcript extraction.
 - :zzz: [iOS Frequent Locations Dumper](https://github.com/mac4n6/iOS-Frequent-Locations-Dumper) - Dump the contents of the StateModel#.archive files located in /private/var/mobile/Library/Caches/com.apple.routined/
 - :zzz: [MEAT](https://github.com/jfarley248/MEAT) - Perform different kinds of acquisitions on iOS devices
 - [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - An automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
