@@ -87,6 +87,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system analytics
 - [POFR](https://github.com/gmagklaras/pofr) - The Penguin OS Flight Recorder collects, stores and organizes for further analysis process execution, file access and network/socket endpoint data from the Linux Operating System.
 - [UAC](https://github.com/tclahr/uac) - UAC (Unix-like Artifacts Collector) is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
+- [OshoosiClaw](https://github.com/oyesanyf/OshoosiClaw) - Rust forensic inspection and EDR suite supporting PE/ELF/Mach-O/WASM/EVM/.NET/APK/SQLite/HAR/PCAP artifact analysis, live memory anomaly detection, and tamper-evident Merkle audit chains.
 
 ### IOC Scanner
 
