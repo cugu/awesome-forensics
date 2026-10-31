@@ -87,6 +87,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system analytics
 - [POFR](https://github.com/gmagklaras/pofr) - The Penguin OS Flight Recorder collects, stores and organizes for further analysis process execution, file access and network/socket endpoint data from the Linux Operating System.
 - [UAC](https://github.com/tclahr/uac) - UAC (Unix-like Artifacts Collector) is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
+- [persisthunt](https://github.com/raj3shp/persisthunt) - A lightweight Linux Persistence hunting & artifact collection script in Bash. It helps speed up investigations by collecting targeted persistence-related artifacts and highlighting suspicious patterns commonly associated with Linux persistence techniques.
 
 ### IOC Scanner
 
