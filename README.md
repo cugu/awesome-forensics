@@ -275,6 +275,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Web
 
+- [Cyber Talks](https://cybertalks.org/topics/forensics) - Unofficial searchable archive of recorded conference talks on digital forensics, filterable by event and speaker.
 - [ForensicsFocus](https://www.forensicfocus.com/)
 - [SANS Digital Forensics](https://www.sans.org/cybersecurity-focus-areas/digital-forensics-incident-response)
 - [Forensics StartMe by Stark 4N6](https://startme.stark4n6.com)
