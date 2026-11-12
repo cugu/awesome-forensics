@@ -205,6 +205,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [ChromeCacheView](https://www.nirsoft.net/utils/chrome_cache_view.html) - A small utility that reads the cache folder of Google Chrome Web browser, and displays the list of all files currently stored in the cache
 - [hindsight](https://github.com/RyanDFIR/hindsight) - Internet history forensics for Google Chrome/Chromium
 - [IE10Analyzer](https://github.com/moaistory/IE10Analyzer) - This tool can parse normal records and recover deleted records in WebCacheV01.dat.
+- [starshield-forensics](https://github.com/Ziqi/starshield-forensics) - Zero-dependency Python tool and library for carving soft-deleted JSON records from Chromium IndexedDB/LevelDB write-ahead logs with Castagnoli CRC32C verification.
 - [unfurl](https://github.com/RyanDFIR/unfurl) - Extract and visualize data from URLs
 - [WinSearchDBAnalyzer](https://github.com/moaistory/WinSearchDBAnalyzer) - This tool can parse normal records and recover deleted records in Windows.edb.
 
