@@ -64,6 +64,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Frameworks
 
 - [AIFT](https://github.com/FlipForensics/AIFT) - AIFT (AI Forensic Triage) parses evidence using dissect and generates AI-assisted forensic reports.
+- [Atlas](https://github.com/AtlasFO/Atlas-Community) - AI-assisted DFIR agent that answers case questions with cited evidence from Volatility 3, Plaso, YARA and other open-source tools, with a web dashboard and full audit trail.
 - :star: [Autopsy](http://www.sleuthkit.org/autopsy/) - SleuthKit GUI
 - :zzz: [dexter](https://github.com/coinbase/dexter) - Dexter is a forensics acquisition framework designed to be extensible and secure
 - :zzz: [dff](https://github.com/arxsys/dff) - Forensic framework
