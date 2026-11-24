@@ -47,6 +47,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [AboutDFIR – The Definitive Compendium Project](https://aboutdfir.com) - Collection of forensic resources for learning and research. Offers lists of certifications, books, blogs, challenges and more
 - :star: [ForensicArtifacts.com Artifact Repository](https://github.com/ForensicArtifacts/artifacts) - Machine-readable knowledge base of forensic artifacts
+- [Stealer Fingerprints](https://github.com/cystack/stealer-fingerprints) - Machine-readable catalog of observed information-stealer log formats with representative samples, recognition anchors, and ATT&CK mappings.
 
 ## Tools
 
