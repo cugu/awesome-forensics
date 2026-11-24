@@ -145,6 +145,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Network Forensics
 
+- [Deepacket](https://github.com/ZeroVectorLabs/deepacket) - Browser-based PCAP analyzer with MITRE ATT&CK-mapped detections, attack-flow reconstruction and file, credential and indicator extraction.
 - [Kismet](https://github.com/kismetwireless/kismet) - A passive wireless sniffer
 - [NetworkMiner](https://www.netresec.com/?page=Networkminer) - Network Forensic Analysis Tool
 - [RustNet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI providing real-time visibility into network connections
