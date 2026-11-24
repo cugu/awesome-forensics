@@ -90,6 +90,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### IOC Scanner
 
+- [binkeep](https://github.com/kano92-dir/binkeep) - Static triage of PE, ELF and Mach-O files that runs entirely in the browser: hashes, imports, strings, entropy, signatures, disassembly and local YARA scanning, with nothing uploaded.
 - [Fastfinder](https://github.com/codeyourweb/fastfinder) - Fast customisable cross-platform suspicious file finder. Supports md5/sha1/sha256 hashes, literal/wildcard strings, regular expressions and YARA rules
 - :zzz: [Fenrir](https://github.com/Neo23x0/Fenrir) - Simple Bash IOC Scanner
 - [Loki](https://github.com/Neo23x0/Loki) - Simple IOC and Incident Response Scanner
