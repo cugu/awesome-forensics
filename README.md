@@ -249,6 +249,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - :zzz: [Metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester for extracting metadata from public documents
 - [mat2](https://github.com/jvoisin/mat2) - Metadata removal tool, supporting a wide range of commonly used file formats
 - [oletools](https://github.com/decalage2/oletools) - Tools to analyze Microsoft OLE2 files and MS Office documents for malware analysis and forensics
+- [Parergon Metadata Viewer](https://parergon.io/metadata-viewer/) - Browser-based viewer for EXIF, IPTC, XMP and GPS metadata in JPEG, PNG, HEIC and TIFF images; files are parsed locally and never uploaded.
 - [pdf-parser](https://blog.didierstevens.com/programs/pdf-tools/) - Parse and analyze PDF files to extract metadata and identify malicious content
 
 ### Steganography
