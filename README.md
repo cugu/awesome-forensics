@@ -113,6 +113,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [Hypoxia](https://github.com/xinitd/hypoxia) - Cross-platform CLI tool for targeted file collection with SHA-256 manifest, chain-of-custody log, and checkpoint/resume support.
 - [LiME](https://github.com/jtsylve/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD
 - [Magnet RAM Capture / DumpIt](https://www.magnetforensics.com/resources/magnet-dumpit-for-windows/) - A free imaging tool designed to capture the physical memory
+- [PageWitness](https://sentinelforensic.app) - Forensic acquisition of public web pages from an isolated server browser: full page copy (HTML, screenshot, PDF) and WARC, SHA-256 hashed, Ed25519-signed and RFC 3161 timestamped, with an open-source offline verifier.
 - [SPECTR3](https://github.com/alpine-sec/SPECTR3) - Acquire, triage and investigate remote evidence via portable iSCSI readonly access
 - [UFADE](https://github.com/prosch88/UFADE) - Extract files from iOS devices on Linux and MacOS. Mostly a wrapper for pymobiledevice3. Creates iTunes-style backups and advanced logical backups.
 - [unix_collector](https://github.com/op7ic/unix_collector) - A live forensic collection script for UNIX-like systems as a single script.
